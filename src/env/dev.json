@@ -1,0 +1,12 @@
+{
+  "name": "dev",
+  "synchronize": true,
+  "production": false,
+  "dropSchema": false,
+  "port": 3001,
+  "logger": "tiny",
+  "dbHost": "mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "dbPort": 5432,
+  "appName": "APESTER"
+}
+

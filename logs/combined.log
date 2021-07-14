@@ -1,0 +1,2164 @@
+2020-11-30T13:17:45.324Z info: Starting server...
+2020-11-30T13:17:45.326Z info: Env: dev
+2020-11-30T13:17:50.855Z info: Initiating jwt
+2020-11-30T13:17:50.857Z info: DB is connected
+2020-11-30T13:17:50.857Z info: bounce-dev-instance.cgpzrbpjf6wx.eu-west-1.rds.amazonaws.com
+2020-11-30T13:17:50.862Z info: Server listening on port 8096. Enjoy!
+2020-11-30T13:25:17.038Z info: Starting server...
+2020-11-30T13:25:17.040Z info: Env: local
+2020-11-30T13:25:17.392Z error: password authentication failed for user "OhadProjects"
+2020-11-30T13:25:17.393Z info: Initiating jwt
+2020-11-30T13:25:17.394Z error: Cannot connect to db. this could be fatal
+2020-11-30T13:25:17.399Z info: Server listening on port 8096. Enjoy!
+2020-11-30T13:25:34.886Z info: Starting server...
+2020-11-30T13:25:34.888Z info: Env: local
+2020-11-30T13:25:35.200Z error: password authentication failed for user "OhadDev"
+2020-11-30T13:25:35.201Z info: Initiating jwt
+2020-11-30T13:25:35.202Z error: Cannot connect to db. this could be fatal
+2020-11-30T13:25:35.207Z info: Server listening on port 8096. Enjoy!
+2020-11-30T13:27:01.176Z info: Starting server...
+2020-11-30T13:27:01.177Z info: Env: local
+2020-11-30T13:27:01.212Z error: password authentication failed for user "OhadDev"
+2020-11-30T13:27:01.212Z info: Initiating jwt
+2020-11-30T13:27:01.213Z error: Cannot connect to db. this could be fatal
+2020-11-30T13:27:01.215Z info: Server listening on port 8096. Enjoy!
+2020-11-30T13:27:33.266Z info: Starting server...
+2020-11-30T13:27:33.268Z info: Env: local
+2020-11-30T13:27:33.302Z error: password authentication failed for user "OhadDev"
+2020-11-30T13:27:33.303Z info: Initiating jwt
+2020-11-30T13:27:33.303Z error: Cannot connect to db. this could be fatal
+2020-11-30T13:27:33.305Z info: Server listening on port 8096. Enjoy!
+2020-11-30T13:28:04.203Z info: Starting server...
+2020-11-30T13:28:04.205Z info: Env: local
+2020-11-30T13:28:04.241Z error: password authentication failed for user "OhadProjects"
+2020-11-30T13:28:04.242Z info: Initiating jwt
+2020-11-30T13:28:04.242Z error: Cannot connect to db. this could be fatal
+2020-11-30T13:28:04.244Z info: Server listening on port 8096. Enjoy!
+2020-11-30T13:30:10.412Z info: Starting server...
+2020-11-30T13:30:10.414Z info: Env: local
+2020-11-30T13:30:10.451Z error: password authentication failed for user "OhadDev"
+2020-11-30T13:30:10.451Z info: Initiating jwt
+2020-11-30T13:30:10.452Z error: Cannot connect to db. this could be fatal
+2020-11-30T13:30:10.454Z info: Server listening on port 8096. Enjoy!
+2020-11-30T13:31:00.346Z info: Starting server...
+2020-11-30T13:31:00.348Z info: Env: local
+2020-11-30T13:31:00.383Z error: password authentication failed for user "OhadProjects"
+2020-11-30T13:31:00.383Z info: Initiating jwt
+2020-11-30T13:31:00.384Z error: Cannot connect to db. this could be fatal
+2020-11-30T13:31:00.386Z info: Server listening on port 8096. Enjoy!
+2020-11-30T13:32:55.306Z info: Starting server...
+2020-11-30T13:32:55.308Z info: Env: local
+2020-11-30T13:32:55.342Z error: password authentication failed for user "OhadProjects"
+2020-11-30T13:32:55.343Z info: Initiating jwt
+2020-11-30T13:32:55.343Z error: Cannot connect to db. this could be fatal
+2020-11-30T13:32:55.345Z info: Server listening on port 8096. Enjoy!
+2020-11-30T13:33:34.955Z info: Starting server...
+2020-11-30T13:33:34.957Z info: Env: local
+2020-11-30T13:33:34.995Z error: password authentication failed for user "OhadProjects"
+2020-11-30T13:33:34.996Z info: Initiating jwt
+2020-11-30T13:33:34.996Z error: Cannot connect to db. this could be fatal
+2020-11-30T13:33:34.998Z info: Server listening on port 8096. Enjoy!
+2020-11-30T13:36:44.995Z info: Starting server...
+2020-11-30T13:36:44.997Z info: Env: local
+2020-11-30T13:36:45.150Z info: Initiating jwt
+2020-11-30T13:36:45.151Z info: DB is connected
+2020-11-30T13:36:45.151Z info: localhost
+2020-11-30T13:36:45.153Z info: Server listening on port 8096. Enjoy!
+2021-02-23T06:12:43.567Z info: Starting server...
+2021-02-23T06:12:43.570Z info: Env: dev
+2021-02-23T06:12:43.965Z info: Initiating jwt
+2021-02-23T06:12:43.966Z info: DB is connected
+2021-02-23T06:12:43.966Z info: localhost
+2021-02-23T06:12:43.969Z info: Server listening on port 8096. Enjoy!
+2021-02-23T06:14:16.125Z info: Starting server...
+2021-02-23T06:14:16.127Z info: Env: dev
+2021-02-23T06:14:16.208Z error: getaddrinfo ENOTFOUND mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-02-23T06:14:16.209Z info: Initiating jwt
+2021-02-23T06:14:16.210Z error: Cannot connect to db. this could be fatal
+2021-02-23T06:14:16.215Z info: Server listening on port 8096. Enjoy!
+2021-02-23T06:16:09.494Z info: Starting server...
+2021-02-23T06:16:09.496Z info: Env: dev
+2021-02-23T06:16:10.982Z info: Initiating jwt
+2021-02-23T06:16:10.983Z error: Cannot connect to db. this could be fatal
+2021-02-23T06:16:10.985Z info: Server listening on port 8096. Enjoy!
+2021-02-23T06:18:03.603Z info: Starting server...
+2021-02-23T06:18:03.605Z info: Env: dev
+2021-02-23T06:18:04.751Z info: Initiating jwt
+2021-02-23T06:18:04.752Z error: Cannot connect to db. this could be fatal
+2021-02-23T06:18:04.756Z info: Server listening on port 8096. Enjoy!
+2021-02-23T06:18:27.402Z info: Starting server...
+2021-02-23T06:18:27.404Z info: Env: dev
+2021-02-23T06:18:28.616Z info: Initiating jwt
+2021-02-23T06:18:28.616Z error: Cannot connect to db. this could be fatal
+2021-02-23T06:18:28.619Z info: Server listening on port 8096. Enjoy!
+2021-02-23T06:18:52.052Z info: Starting server...
+2021-02-23T06:18:52.055Z info: Env: dev
+2021-02-23T06:18:54.393Z info: Initiating jwt
+2021-02-23T06:18:54.394Z error: Cannot connect to db. this could be fatal
+2021-02-23T06:18:54.405Z info: Server listening on port 8096. Enjoy!
+2021-02-23T06:19:46.334Z info: Starting server...
+2021-02-23T06:19:46.337Z info: Env: dev
+2021-02-23T06:19:46.341Z error: mongoose.connect is not a function
+2021-02-23T06:19:46.343Z info: Initiating jwt
+2021-02-23T06:19:46.343Z error: Cannot connect to db. this could be fatal
+2021-02-23T06:19:46.346Z info: Server listening on port 8096. Enjoy!
+2021-02-23T06:20:29.988Z info: Starting server...
+2021-02-23T06:20:29.991Z info: Env: dev
+2021-02-23T06:20:29.995Z error: mongoose.connect is not a function
+2021-02-23T06:20:29.997Z info: Initiating jwt
+2021-02-23T06:20:29.998Z error: Cannot connect to db. this could be fatal
+2021-02-23T06:20:30.000Z info: Server listening on port 8096. Enjoy!
+2021-02-23T06:20:37.364Z info: Starting server...
+2021-02-23T06:20:37.367Z info: Env: dev
+2021-02-23T06:20:39.371Z info: Initiating jwt
+2021-02-23T06:20:39.374Z error: Cannot connect to db. this could be fatal
+2021-02-23T06:20:39.380Z info: Server listening on port 8096. Enjoy!
+2021-02-23T06:23:16.509Z info: Starting server...
+2021-02-23T06:23:16.511Z info: Env: dev
+2021-02-23T06:23:18.985Z info: Initiating jwt
+2021-02-23T06:23:18.986Z error: Cannot connect to db. this could be fatal
+2021-02-23T06:23:18.995Z info: Server listening on port 8096. Enjoy!
+2021-02-23T06:25:39.599Z info: Starting server...
+2021-02-23T06:25:39.602Z info: Env: dev
+2021-02-23T06:25:45.026Z info: Initiating jwt
+2021-02-23T06:25:45.030Z error: Cannot connect to db. this could be fatal
+2021-02-23T06:25:45.037Z info: Server listening on port 8096. Enjoy!
+2021-02-23T06:26:21.333Z info: Starting server...
+2021-02-23T06:26:21.335Z info: Env: dev
+2021-02-23T06:26:23.815Z info: Initiating jwt
+2021-02-23T06:26:23.821Z error: Cannot connect to db. this could be fatal
+2021-02-23T06:26:23.826Z info: Server listening on port 8096. Enjoy!
+2021-02-23T06:27:55.674Z info: Starting server...
+2021-02-23T06:27:55.676Z info: Env: dev
+2021-02-23T06:27:57.773Z info: Initiating jwt
+2021-02-23T06:27:57.775Z error: Cannot connect to db. this could be fatal
+2021-02-23T06:27:57.785Z info: Server listening on port 8096. Enjoy!
+2021-02-23T06:28:14.439Z info: Starting server...
+2021-02-23T06:28:14.442Z info: Env: dev
+2021-02-23T06:28:16.401Z error: Cannot connect to db. this could be fatal
+2021-02-23T06:28:16.408Z info: Server listening on port 8096. Enjoy!
+2021-02-23T06:29:28.323Z info: Starting server...
+2021-02-23T06:29:28.326Z info: Env: dev
+2021-02-23T06:29:33.685Z error: Cannot connect to db. this could be fatal
+2021-02-23T06:29:33.691Z info: Server listening on port 8096. Enjoy!
+2021-02-23T06:31:30.206Z info: Starting server...
+2021-02-23T06:31:30.208Z info: Env: dev
+2021-02-23T06:31:32.357Z error: Cannot connect to db. this could be fatal
+2021-02-23T06:31:32.367Z info: Server listening on port 8096. Enjoy!
+2021-02-23T06:33:23.800Z info: Starting server...
+2021-02-23T06:33:23.803Z info: Env: dev
+2021-02-23T06:33:25.373Z error: password must be a string
+2021-02-23T06:33:25.374Z error: Cannot connect to db. this could be fatal
+2021-02-23T06:33:25.378Z info: Server listening on port 8096. Enjoy!
+2021-02-23T06:33:33.937Z info: Starting server...
+2021-02-23T06:33:33.940Z info: Env: dev
+2021-02-23T06:33:35.466Z error: password must be a string
+2021-02-23T06:33:35.467Z error: Cannot connect to db. this could be fatal
+2021-02-23T06:33:35.471Z info: Server listening on port 8096. Enjoy!
+2021-02-23T06:33:43.116Z info: Starting server...
+2021-02-23T06:33:43.119Z info: Env: dev
+2021-02-23T06:33:45.287Z error: Cannot connect to db. this could be fatal
+2021-02-23T06:33:45.299Z info: Server listening on port 8096. Enjoy!
+2021-02-23T06:34:04.374Z info: Starting server...
+2021-02-23T06:34:04.377Z info: Env: dev
+2021-02-23T06:34:06.391Z error: Cannot connect to db. this could be fatal
+2021-02-23T06:34:06.398Z info: Server listening on port 8096. Enjoy!
+2021-02-23T06:35:17.153Z info: Starting server...
+2021-02-23T06:35:17.155Z info: Env: dev
+2021-02-23T06:36:11.229Z info: Starting server...
+2021-02-23T06:36:11.231Z info: Env: dev
+2021-02-23T06:36:22.645Z info: DB is connected
+2021-02-23T06:36:22.647Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-02-23T06:36:22.658Z info: Server listening on port 8096. Enjoy!
+2021-02-23T06:37:01.646Z info: Starting server...
+2021-02-23T06:37:01.648Z info: Env: dev
+2021-02-23T06:37:04.958Z info: Initiating jwt
+2021-02-23T06:37:04.960Z info: DB is connected
+2021-02-23T06:37:04.963Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-02-23T06:37:04.971Z info: Server listening on port 8096. Enjoy!
+2021-02-23T06:46:06.433Z info: Starting server...
+2021-02-23T06:46:06.436Z info: Env: dev
+2021-02-23T06:46:08.486Z info: Initiating jwt
+2021-02-23T06:46:08.487Z info: DB is connected
+2021-02-23T06:46:08.490Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-02-23T06:46:08.493Z info: Server listening on port 8096. Enjoy!
+2021-02-23T07:10:04.524Z info: Starting server...
+2021-02-23T07:10:04.528Z info: Env: dev
+2021-02-23T07:10:06.139Z info: Initiating jwt
+2021-02-23T07:10:06.140Z info: DB is connected
+2021-02-23T07:10:06.140Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-02-23T07:10:06.144Z info: Server listening on port 3000. Enjoy!
+2021-02-23T07:29:26.913Z info: Starting server...
+2021-02-23T07:29:26.916Z info: Env: dev
+2021-02-23T07:29:28.626Z info: Initiating jwt
+2021-02-23T07:29:28.628Z info: DB is connected
+2021-02-23T07:29:28.628Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-02-23T07:29:28.632Z info: Server listening on port 3000. Enjoy!
+2021-02-23T07:30:41.138Z info: Starting server...
+2021-02-23T07:30:41.141Z info: Env: dev
+2021-02-23T07:30:42.665Z info: Initiating jwt
+2021-02-23T07:30:42.668Z info: DB is connected
+2021-02-23T07:30:42.669Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-02-23T07:30:42.672Z info: Server listening on port 3000. Enjoy!
+2021-02-23T07:31:15.197Z info: Starting server...
+2021-02-23T07:31:15.199Z info: Env: dev
+2021-02-23T07:31:16.715Z info: Initiating jwt
+2021-02-23T07:31:16.716Z info: DB is connected
+2021-02-23T07:31:16.716Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-02-23T07:31:16.721Z info: Server listening on port 3000. Enjoy!
+2021-02-23T07:31:32.104Z info: Starting server...
+2021-02-23T07:31:32.106Z info: Env: dev
+2021-02-23T07:31:33.530Z info: Initiating jwt
+2021-02-23T07:31:33.532Z info: DB is connected
+2021-02-23T07:31:33.533Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-02-23T07:31:33.536Z info: Server listening on port 3000. Enjoy!
+2021-02-23T07:33:02.747Z info: Starting server...
+2021-02-23T07:33:02.750Z info: Env: dev
+2021-02-23T07:33:04.358Z info: Initiating jwt
+2021-02-23T07:33:04.359Z info: DB is connected
+2021-02-23T07:33:04.359Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-02-23T07:33:04.363Z info: Server listening on port 3000. Enjoy!
+2021-02-23T07:33:11.055Z info: Starting server...
+2021-02-23T07:33:11.058Z info: Env: dev
+2021-02-23T07:33:12.445Z info: Initiating jwt
+2021-02-23T07:33:12.446Z info: DB is connected
+2021-02-23T07:33:12.447Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-02-23T07:33:12.450Z info: Server listening on port 3000. Enjoy!
+2021-02-23T07:35:16.217Z info: Starting server...
+2021-02-23T07:35:16.219Z info: Env: dev
+2021-02-23T07:35:17.712Z info: Initiating jwt
+2021-02-23T07:35:17.713Z info: DB is connected
+2021-02-23T07:35:17.713Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-02-23T07:35:17.718Z info: Server listening on port 3000. Enjoy!
+2021-02-23T07:38:47.094Z info: Starting server...
+2021-02-23T07:38:47.097Z info: Env: dev
+2021-02-23T07:38:48.750Z info: Initiating jwt
+2021-02-23T07:38:48.751Z info: DB is connected
+2021-02-23T07:38:48.751Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-02-23T07:38:48.755Z info: Server listening on port 3000. Enjoy!
+2021-02-23T07:42:03.797Z info: Starting server...
+2021-02-23T07:42:03.800Z info: Env: dev
+2021-02-23T07:42:05.615Z info: Initiating jwt
+2021-02-23T07:42:05.616Z info: DB is connected
+2021-02-23T07:42:05.616Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-02-23T07:42:05.620Z info: Server listening on port 3000. Enjoy!
+2021-02-23T07:42:45.936Z info: Starting server...
+2021-02-23T07:42:45.939Z info: Env: dev
+2021-02-23T07:42:47.370Z info: Initiating jwt
+2021-02-23T07:42:47.371Z info: DB is connected
+2021-02-23T07:42:47.371Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-02-23T07:42:47.378Z info: Server listening on port 3000. Enjoy!
+2021-02-23T07:43:35.642Z info: Starting server...
+2021-02-23T07:43:35.644Z info: Env: dev
+2021-02-23T07:43:37.304Z info: Initiating jwt
+2021-02-23T07:43:37.305Z info: DB is connected
+2021-02-23T07:43:37.306Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-02-23T07:43:37.309Z info: Server listening on port 3000. Enjoy!
+2021-02-23T07:44:52.804Z info: Starting server...
+2021-02-23T07:44:52.806Z info: Env: dev
+2021-02-23T07:44:54.524Z info: Initiating jwt
+2021-02-23T07:44:54.524Z info: DB is connected
+2021-02-23T07:44:54.525Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-02-23T07:44:54.528Z info: Server listening on port 3000. Enjoy!
+2021-02-23T07:46:16.447Z info: Starting server...
+2021-02-23T07:46:16.450Z info: Env: dev
+2021-02-23T07:46:18.099Z info: Initiating jwt
+2021-02-23T07:46:18.100Z info: DB is connected
+2021-02-23T07:46:18.100Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-02-23T07:46:18.103Z info: Server listening on port 3000. Enjoy!
+2021-02-23T07:47:09.584Z info: Starting server...
+2021-02-23T07:47:09.587Z info: Env: dev
+2021-02-23T07:47:11.078Z info: Initiating jwt
+2021-02-23T07:47:11.079Z info: DB is connected
+2021-02-23T07:47:11.079Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-02-23T07:47:11.083Z info: Server listening on port 3000. Enjoy!
+2021-02-23T07:47:12.040Z error: User Already Exists
+2021-02-23T07:47:12.041Z error: User Already Exists
+2021-02-23T07:47:19.896Z error: User Already Exists
+2021-02-23T07:47:19.897Z error: User Already Exists
+2021-02-23T07:47:20.596Z error: User Already Exists
+2021-02-23T07:47:20.597Z error: User Already Exists
+2021-02-23T07:47:27.034Z error: User Already Exists
+2021-02-23T07:47:27.034Z error: User Already Exists
+2021-02-23T08:44:52.458Z info: Starting server...
+2021-02-23T08:44:52.461Z info: Env: dev
+2021-02-23T08:44:54.137Z info: Initiating jwt
+2021-02-23T08:44:54.138Z info: DB is connected
+2021-02-23T08:44:54.138Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-02-23T08:44:54.142Z info: Server listening on port 3000. Enjoy!
+2021-02-23T08:45:20.680Z info: Starting server...
+2021-02-23T08:45:20.682Z info: Env: dev
+2021-02-23T08:45:22.160Z info: Initiating jwt
+2021-02-23T08:45:22.160Z info: DB is connected
+2021-02-23T08:45:22.161Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-02-23T08:45:22.165Z info: Server listening on port 3000. Enjoy!
+2021-02-23T08:53:58.549Z info: Starting server...
+2021-02-23T08:53:58.553Z info: Env: dev
+2021-02-23T08:54:05.242Z info: Initiating jwt
+2021-02-23T08:54:05.243Z info: DB is connected
+2021-02-23T08:54:05.243Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-02-23T08:54:05.251Z info: Server listening on port 3000. Enjoy!
+2021-02-23T08:55:30.981Z info: Starting server...
+2021-02-23T08:55:30.984Z info: Env: dev
+2021-02-23T08:55:32.734Z info: Initiating jwt
+2021-02-23T08:55:32.736Z info: DB is connected
+2021-02-23T08:55:32.736Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-02-23T08:55:32.746Z info: Server listening on port 3000. Enjoy!
+2021-02-23T08:56:32.497Z info: Starting server...
+2021-02-23T08:56:32.499Z info: Env: dev
+2021-02-23T08:56:34.026Z info: Initiating jwt
+2021-02-23T08:56:34.028Z info: DB is connected
+2021-02-23T08:56:34.028Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-02-23T08:56:34.035Z info: Server listening on port 3000. Enjoy!
+2021-02-23T08:58:15.440Z info: Starting server...
+2021-02-23T08:58:15.443Z info: Env: dev
+2021-02-23T08:58:16.994Z info: Initiating jwt
+2021-02-23T08:58:16.997Z info: DB is connected
+2021-02-23T08:58:16.997Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-02-23T08:58:17.000Z info: Server listening on port 3000. Enjoy!
+2021-02-23T08:58:32.642Z info: Starting server...
+2021-02-23T08:58:32.645Z info: Env: dev
+2021-02-23T08:58:34.064Z info: Initiating jwt
+2021-02-23T08:58:34.065Z info: DB is connected
+2021-02-23T08:58:34.066Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-02-23T08:58:34.072Z info: Server listening on port 3000. Enjoy!
+2021-02-23T08:58:59.572Z info: Starting server...
+2021-02-23T08:58:59.574Z info: Env: dev
+2021-02-23T08:59:01.184Z info: Initiating jwt
+2021-02-23T08:59:01.185Z info: DB is connected
+2021-02-23T08:59:01.186Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-02-23T08:59:01.192Z info: Server listening on port 3000. Enjoy!
+2021-02-23T09:01:08.337Z info: Starting server...
+2021-02-23T09:01:08.340Z info: Env: dev
+2021-02-23T09:01:10.142Z info: Initiating jwt
+2021-02-23T09:01:10.145Z info: DB is connected
+2021-02-23T09:01:10.145Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-02-23T09:01:10.151Z info: Server listening on port 3000. Enjoy!
+2021-02-23T09:16:49.501Z info: Starting server...
+2021-02-23T09:16:49.504Z info: Env: dev
+2021-02-23T09:16:51.208Z info: Initiating jwt
+2021-02-23T09:16:51.208Z info: DB is connected
+2021-02-23T09:16:51.209Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-02-23T09:16:51.212Z info: Server listening on port 3000. Enjoy!
+2021-02-23T09:17:14.780Z info: Starting server...
+2021-02-23T09:17:14.783Z info: Env: dev
+2021-02-23T09:17:16.266Z info: Initiating jwt
+2021-02-23T09:17:16.267Z info: DB is connected
+2021-02-23T09:17:16.268Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-02-23T09:17:16.270Z info: Server listening on port 3000. Enjoy!
+2021-02-23T09:17:58.149Z info: Starting server...
+2021-02-23T09:17:58.151Z info: Env: dev
+2021-02-23T09:17:59.655Z info: Initiating jwt
+2021-02-23T09:17:59.655Z info: DB is connected
+2021-02-23T09:17:59.656Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-02-23T09:17:59.660Z info: Server listening on port 3000. Enjoy!
+2021-02-23T09:18:12.864Z error: User Already Exists
+2021-02-23T09:18:12.865Z error: User Already Exists
+2021-02-23T09:18:28.555Z error: User Already Exists
+2021-02-23T09:18:28.556Z error: User Already Exists
+2021-02-23T09:39:26.740Z info: Starting server...
+2021-02-23T09:39:26.743Z info: Env: dev
+2021-02-23T09:39:28.358Z info: Initiating jwt
+2021-02-23T09:39:28.359Z info: DB is connected
+2021-02-23T09:39:28.359Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-02-23T09:39:28.362Z info: Server listening on port 3000. Enjoy!
+2021-02-23T09:45:25.934Z info: Starting server...
+2021-02-23T09:45:25.938Z info: Env: dev
+2021-02-23T09:45:27.614Z info: Initiating jwt
+2021-02-23T09:45:27.615Z info: DB is connected
+2021-02-23T09:45:27.615Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-02-23T09:45:27.620Z info: Server listening on port 3000. Enjoy!
+2021-02-23T15:36:56.843Z info: Starting server...
+2021-02-23T15:36:56.849Z info: Env: dev
+2021-02-23T15:37:00.528Z info: Initiating jwt
+2021-02-23T15:37:00.529Z info: DB is connected
+2021-02-23T15:37:00.529Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-02-23T15:37:00.533Z info: Server listening on port 3000. Enjoy!
+2021-02-23T15:43:27.056Z info: Starting server...
+2021-02-23T15:43:27.058Z info: Env: dev
+2021-02-23T15:43:29.178Z info: Initiating jwt
+2021-02-23T15:43:29.179Z info: DB is connected
+2021-02-23T15:43:29.180Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-02-23T15:43:29.186Z info: Server listening on port 3000. Enjoy!
+2021-02-23T15:43:43.235Z error: User Already Exis ts
+2021-02-23T15:43:43.236Z error: User Already Exists
+2021-02-23T15:51:25.603Z info: Starting server...
+2021-02-23T15:51:25.606Z info: Env: dev
+2021-02-23T15:51:32.441Z info: Initiating jwt
+2021-02-23T15:51:32.442Z info: DB is connected
+2021-02-23T15:51:32.442Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-02-23T15:51:32.447Z info: Server listening on port 3000. Enjoy!
+2021-02-23T15:54:09.093Z info: Starting server...
+2021-02-23T15:54:09.096Z info: Env: dev
+2021-02-23T15:54:14.368Z info: Initiating jwt
+2021-02-23T15:54:14.369Z info: DB is connected
+2021-02-23T15:54:14.370Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-02-23T15:54:14.377Z info: Server listening on port 3000. Enjoy!
+2021-02-23T15:54:23.982Z error: User Already Exis ts
+2021-02-23T15:54:23.984Z error: User Already Exists
+2021-02-23T15:55:19.169Z info: Starting server...
+2021-02-23T15:55:19.172Z info: Env: dev
+2021-02-23T15:55:21.208Z info: Initiating jwt
+2021-02-23T15:55:21.210Z info: DB is connected
+2021-02-23T15:55:21.211Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-02-23T15:55:21.216Z info: Server listening on port 3000. Enjoy!
+2021-02-23T16:02:05.711Z info: Starting server...
+2021-02-23T16:02:05.713Z info: Env: dev
+2021-02-23T16:02:07.976Z info: Initiating jwt
+2021-02-23T16:02:07.976Z info: DB is connected
+2021-02-23T16:02:07.979Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-02-23T16:02:07.982Z info: Server listening on port 3000. Enjoy!
+2021-02-23T16:15:13.435Z info: Starting server...
+2021-02-23T16:15:13.438Z info: Env: dev
+2021-02-23T16:15:15.693Z info: Initiating jwt
+2021-02-23T16:15:15.694Z info: DB is connected
+2021-02-23T16:15:15.694Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-02-23T16:15:15.698Z info: Server listening on port 3000. Enjoy!
+2021-02-23T16:23:24.835Z info: Starting server...
+2021-02-23T16:23:24.838Z info: Env: dev
+2021-02-23T16:23:33.871Z info: Initiating jwt
+2021-02-23T16:23:33.871Z info: DB is connected
+2021-02-23T16:23:33.873Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-02-23T16:23:33.876Z info: Server listening on port 3000. Enjoy!
+2021-02-23T16:23:45.893Z info: Starting server...
+2021-02-23T16:23:45.895Z info: Env: dev
+2021-02-23T16:23:47.967Z info: Initiating jwt
+2021-02-23T16:23:47.968Z info: DB is connected
+2021-02-23T16:23:47.968Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-02-23T16:23:47.970Z info: Server listening on port 3000. Enjoy!
+2021-02-23T16:25:12.665Z info: Starting server...
+2021-02-23T16:25:12.667Z info: Env: dev
+2021-02-23T16:25:16.041Z info: Initiating jwt
+2021-02-23T16:25:16.043Z info: DB is connected
+2021-02-23T16:25:16.043Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-02-23T16:25:16.049Z info: Server listening on port 3000. Enjoy!
+2021-02-23T16:25:19.783Z error: error authenticating jwt
+2021-02-23T16:25:19.784Z error: no data
+2021-02-23T16:25:30.722Z error: error authenticating jwt
+2021-02-23T16:25:30.723Z error: no data
+2021-02-23T16:25:38.644Z info: Starting server...
+2021-02-23T16:25:38.647Z info: Env: dev
+2021-02-23T16:25:43.965Z info: Starting server...
+2021-02-23T16:25:43.968Z info: Env: dev
+2021-02-23T16:25:47.132Z info: Initiating jwt
+2021-02-23T16:25:47.133Z info: DB is connected
+2021-02-23T16:25:47.134Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-02-23T16:25:47.138Z info: Server listening on port 3000. Enjoy!
+2021-02-23T16:25:47.253Z error: error authenticating jwt
+2021-02-23T16:25:47.254Z error: no data
+2021-02-23T16:25:48.230Z error: error authenticating jwt
+2021-02-23T16:25:48.231Z error: no data
+2021-02-23T16:26:34.929Z error: User wasn't found
+2021-02-23T16:26:34.932Z error: No user with id6035252a390a8ba2570da4ca
+2021-02-23T16:26:34.936Z error: error authenticating jwt
+2021-02-23T16:26:34.937Z error: no data
+2021-02-23T16:26:35.859Z error: User wasn't found
+2021-02-23T16:26:35.861Z error: No user with id6035252a390a8ba2570da4ca
+2021-02-23T16:26:35.863Z error: error authenticating jwt
+2021-02-23T16:26:35.863Z error: no data
+2021-02-23T16:26:51.445Z error: User wasn't found
+2021-02-23T16:26:51.446Z error: No user with id6035252a390a8ba2570da4ca
+2021-02-23T16:26:51.449Z error: error authenticating jwt
+2021-02-23T16:26:51.450Z error: no data
+2021-02-23T16:26:55.178Z error: User wasn't found
+2021-02-23T16:26:55.179Z error: No user with id6035252a390a8ba2570da4ca
+2021-02-23T16:26:55.181Z error: error authenticating jwt
+2021-02-23T16:26:55.185Z error: no data
+2021-02-23T16:27:26.597Z error: User wasn't found
+2021-02-23T16:27:26.598Z error: No user with id6035252a390a8ba2570da4ca
+2021-02-23T16:27:26.602Z error: error authenticating jwt
+2021-02-23T16:27:26.602Z error: no data
+2021-02-23T16:28:25.670Z info: Starting server...
+2021-02-23T16:28:25.673Z info: Env: dev
+2021-02-23T16:28:28.376Z info: Initiating jwt
+2021-02-23T16:28:28.377Z info: DB is connected
+2021-02-23T16:28:28.377Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-02-23T16:28:28.381Z info: Server listening on port 3000. Enjoy!
+2021-02-23T16:29:33.058Z info: Starting server...
+2021-02-23T16:29:33.060Z info: Env: dev
+2021-02-23T16:29:35.225Z info: Initiating jwt
+2021-02-23T16:29:35.226Z info: DB is connected
+2021-02-23T16:29:35.229Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-02-23T16:29:35.235Z info: Server listening on port 3000. Enjoy!
+2021-02-23T16:30:16.690Z info: Starting server...
+2021-02-23T16:30:16.693Z info: Env: dev
+2021-02-23T16:30:18.940Z info: Initiating jwt
+2021-02-23T16:30:18.941Z info: DB is connected
+2021-02-23T16:30:18.941Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-02-23T16:30:18.945Z info: Server listening on port 3000. Enjoy!
+2021-02-23T16:30:38.218Z info: Starting server...
+2021-02-23T16:30:38.221Z info: Env: dev
+2021-02-23T16:30:41.570Z info: Initiating jwt
+2021-02-23T16:30:41.571Z info: DB is connected
+2021-02-23T16:30:41.571Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-02-23T16:30:41.577Z info: Server listening on port 3000. Enjoy!
+2021-02-23T16:31:37.252Z info: Starting server...
+2021-02-23T16:31:37.254Z info: Env: dev
+2021-02-23T16:31:39.368Z info: Initiating jwt
+2021-02-23T16:31:39.369Z info: DB is connected
+2021-02-23T16:31:39.370Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-02-23T16:31:39.378Z info: Server listening on port 3000. Enjoy!
+2021-02-23T16:33:42.721Z info: Starting server...
+2021-02-23T16:33:42.723Z info: Env: dev
+2021-02-23T16:33:46.004Z info: Initiating jwt
+2021-02-23T16:33:46.005Z info: DB is connected
+2021-02-23T16:33:46.007Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-02-23T16:33:46.012Z info: Server listening on port 3000. Enjoy!
+2021-02-23T16:34:34.423Z info: Starting server...
+2021-02-23T16:34:34.426Z info: Env: dev
+2021-02-23T16:34:36.496Z info: Initiating jwt
+2021-02-23T16:34:36.500Z info: DB is connected
+2021-02-23T16:34:36.502Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-02-23T16:34:36.511Z info: Server listening on port 3000. Enjoy!
+2021-02-23T16:37:15.816Z info: Starting server...
+2021-02-23T16:37:15.818Z info: Env: dev
+2021-02-23T16:37:18.473Z info: Initiating jwt
+2021-02-23T16:37:18.474Z info: DB is connected
+2021-02-23T16:37:18.474Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-02-23T16:37:18.479Z info: Server listening on port 3000. Enjoy!
+2021-02-23T16:37:42.987Z error: User wasn't found
+2021-02-23T16:37:42.990Z error: No user with id6035252a390a8ba2570da4ca
+2021-02-23T16:37:43.001Z error: error authenticating jwt
+2021-02-23T16:37:43.001Z error: no data
+2021-02-23T16:38:25.942Z info: Starting server...
+2021-02-23T16:38:25.945Z info: Env: dev
+2021-02-23T16:38:56.452Z info: Initiating jwt
+2021-02-23T16:38:56.453Z info: DB is connected
+2021-02-23T16:38:56.454Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-02-23T16:38:56.462Z info: Server listening on port 3000. Enjoy!
+2021-02-23T16:41:22.915Z info: Starting server...
+2021-02-23T16:41:22.917Z info: Env: dev
+2021-02-23T16:41:25.916Z info: Initiating jwt
+2021-02-23T16:41:25.918Z info: DB is connected
+2021-02-23T16:41:25.919Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-02-23T16:41:25.924Z info: Server listening on port 3000. Enjoy!
+2021-02-23T16:43:03.578Z info: Starting server...
+2021-02-23T16:43:03.581Z info: Env: dev
+2021-02-23T16:43:05.838Z info: Initiating jwt
+2021-02-23T16:43:05.839Z info: DB is connected
+2021-02-23T16:43:05.840Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-02-23T16:43:05.845Z info: Server listening on port 3000. Enjoy!
+2021-02-23T16:43:31.970Z info: Starting server...
+2021-02-23T16:43:31.973Z info: Env: dev
+2021-02-23T16:43:38.569Z info: Initiating jwt
+2021-02-23T16:43:38.570Z info: DB is connected
+2021-02-23T16:43:38.571Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-02-23T16:43:38.575Z info: Server listening on port 3000. Enjoy!
+2021-02-23T16:46:23.107Z info: Starting server...
+2021-02-23T16:46:23.110Z info: Env: dev
+2021-02-23T16:46:25.608Z info: Initiating jwt
+2021-02-23T16:46:25.609Z info: DB is connected
+2021-02-23T16:46:25.609Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-02-23T16:46:25.612Z info: Server listening on port 3000. Enjoy!
+2021-02-23T17:39:39.981Z info: Starting server...
+2021-02-23T17:39:39.984Z info: Env: dev
+2021-02-23T17:39:42.541Z info: Initiating jwt
+2021-02-23T17:39:46.928Z info: DB is connected
+2021-02-23T17:39:46.929Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-02-23T17:39:46.944Z info: Server listening on port 3000. Enjoy!
+2021-02-23T17:39:58.106Z error: Profile Not Exists
+2021-02-23T17:39:58.107Z error: Profile Wont Exists
+2021-02-23T17:40:51.858Z info: Starting server...
+2021-02-23T17:40:51.861Z info: Env: dev
+2021-02-23T17:40:54.023Z info: Initiating jwt
+2021-02-23T17:40:54.027Z info: DB is connected
+2021-02-23T17:40:54.027Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-02-23T17:40:54.032Z info: Server listening on port 3000. Enjoy!
+2021-02-23T17:43:34.116Z info: Starting server...
+2021-02-23T17:43:34.118Z info: Env: dev
+2021-02-23T17:43:36.646Z info: Initiating jwt
+2021-02-23T17:43:36.647Z info: DB is connected
+2021-02-23T17:43:36.647Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-02-23T17:43:36.650Z info: Server listening on port 3000. Enjoy!
+2021-02-23T17:43:59.306Z error: Profile Not Exists
+2021-02-23T17:43:59.308Z error: Profile Wont Exists
+2021-02-24T11:41:28.555Z info: Starting server...
+2021-02-24T11:41:28.559Z info: Env: dev
+2021-02-24T11:41:31.128Z info: Initiating jwt
+2021-02-24T11:41:31.132Z info: DB is connected
+2021-02-24T11:41:31.132Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-02-24T11:41:31.138Z info: Server listening on port 3000. Enjoy!
+2021-02-24T11:50:57.875Z info: Starting server...
+2021-02-24T11:50:57.877Z info: Env: dev
+2021-02-24T11:50:59.677Z info: Initiating jwt
+2021-02-24T11:50:59.678Z info: DB is connected
+2021-02-24T11:50:59.678Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-02-24T11:50:59.680Z info: Server listening on port 3000. Enjoy!
+2021-02-24T11:52:14.226Z info: Starting server...
+2021-02-24T11:52:14.228Z info: Env: dev
+2021-02-24T11:52:15.971Z info: Initiating jwt
+2021-02-24T11:52:15.973Z info: DB is connected
+2021-02-24T11:52:15.973Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-02-24T11:52:15.977Z info: Server listening on port 3000. Enjoy!
+2021-02-24T11:53:20.498Z info: Starting server...
+2021-02-24T11:53:20.500Z info: Env: dev
+2021-02-24T11:53:22.262Z info: Initiating jwt
+2021-02-24T11:53:22.263Z info: DB is connected
+2021-02-24T11:53:22.263Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-02-24T11:53:22.267Z info: Server listening on port 3000. Enjoy!
+2021-02-24T11:55:04.088Z info: Starting server...
+2021-02-24T11:55:04.091Z info: Env: dev
+2021-02-24T11:55:05.883Z info: Initiating jwt
+2021-02-24T11:55:05.884Z info: DB is connected
+2021-02-24T11:55:05.884Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-02-24T11:55:05.890Z info: Server listening on port 3000. Enjoy!
+2021-02-24T11:55:43.608Z info: Starting server...
+2021-02-24T11:55:43.611Z info: Env: dev
+2021-02-24T11:55:45.386Z info: Initiating jwt
+2021-02-24T11:55:45.389Z info: DB is connected
+2021-02-24T11:55:45.391Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-02-24T11:55:45.397Z info: Server listening on port 3000. Enjoy!
+2021-02-24T11:56:40.154Z info: Starting server...
+2021-02-24T11:56:40.156Z info: Env: dev
+2021-02-24T11:56:42.008Z info: Initiating jwt
+2021-02-24T11:56:42.009Z info: DB is connected
+2021-02-24T11:56:42.010Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-02-24T11:56:42.015Z info: Server listening on port 3000. Enjoy!
+2021-02-24T12:00:31.569Z info: Starting server...
+2021-02-24T12:00:31.572Z info: Env: dev
+2021-02-24T12:00:38.335Z info: Initiating jwt
+2021-02-24T12:00:38.337Z info: DB is connected
+2021-02-24T12:00:38.337Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-02-24T12:00:38.341Z info: Server listening on port 3000. Enjoy!
+2021-02-24T12:01:15.577Z info: Starting server...
+2021-02-24T12:01:15.579Z info: Env: dev
+2021-02-24T12:01:17.353Z info: Initiating jwt
+2021-02-24T12:01:17.353Z info: DB is connected
+2021-02-24T12:01:17.354Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-02-24T12:01:17.357Z info: Server listening on port 3000. Enjoy!
+2021-02-24T12:03:44.002Z info: Starting server...
+2021-02-24T12:03:44.006Z info: Env: dev
+2021-02-24T12:03:45.937Z info: Initiating jwt
+2021-02-24T12:03:45.938Z info: DB is connected
+2021-02-24T12:03:45.938Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-02-24T12:03:45.942Z info: Server listening on port 3000. Enjoy!
+2021-02-24T12:06:00.914Z info: Starting server...
+2021-02-24T12:06:00.916Z info: Env: dev
+2021-02-24T12:06:03.003Z info: Initiating jwt
+2021-02-24T12:06:03.005Z info: DB is connected
+2021-02-24T12:06:03.005Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-02-24T12:06:03.009Z info: Server listening on port 3000. Enjoy!
+2021-02-24T12:07:12.788Z info: Starting server...
+2021-02-24T12:07:12.791Z info: Env: dev
+2021-02-24T12:07:14.559Z info: Initiating jwt
+2021-02-24T12:07:14.560Z info: DB is connected
+2021-02-24T12:07:14.560Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-02-24T12:07:14.566Z info: Server listening on port 3000. Enjoy!
+2021-02-24T12:09:04.766Z info: Starting server...
+2021-02-24T12:09:04.769Z info: Env: dev
+2021-02-24T12:09:06.585Z info: Initiating jwt
+2021-02-24T12:09:06.585Z info: DB is connected
+2021-02-24T12:09:06.586Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-02-24T12:09:06.589Z info: Server listening on port 3000. Enjoy!
+2021-02-24T12:16:31.815Z info: Starting server...
+2021-02-24T12:16:31.817Z info: Env: dev
+2021-02-24T12:16:33.597Z info: Initiating jwt
+2021-02-24T12:16:33.598Z info: DB is connected
+2021-02-24T12:16:33.598Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-02-24T12:16:33.602Z info: Server listening on port 3000. Enjoy!
+2021-02-24T12:17:26.102Z info: Starting server...
+2021-02-24T12:17:26.104Z info: Env: dev
+2021-02-24T12:17:27.901Z info: Initiating jwt
+2021-02-24T12:17:27.902Z info: DB is connected
+2021-02-24T12:17:27.903Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-02-24T12:17:27.908Z info: Server listening on port 3000. Enjoy!
+2021-02-24T12:20:41.726Z info: Starting server...
+2021-02-24T12:20:41.729Z info: Env: dev
+2021-02-24T12:20:43.538Z info: Initiating jwt
+2021-02-24T12:20:43.540Z info: DB is connected
+2021-02-24T12:20:43.540Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-02-24T12:20:43.543Z info: Server listening on port 3000. Enjoy!
+2021-02-24T12:25:04.495Z info: Starting server...
+2021-02-24T12:25:04.498Z info: Env: dev
+2021-02-24T12:25:06.288Z info: Initiating jwt
+2021-02-24T12:25:06.290Z info: DB is connected
+2021-02-24T12:25:06.291Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-02-24T12:25:06.294Z info: Server listening on port 3000. Enjoy!
+2021-02-24T12:28:58.150Z info: Starting server...
+2021-02-24T12:28:58.153Z info: Env: dev
+2021-02-24T12:29:00.573Z info: Initiating jwt
+2021-02-24T12:29:00.574Z info: DB is connected
+2021-02-24T12:29:00.575Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-02-24T12:29:00.579Z info: Server listening on port 3000. Enjoy!
+2021-02-24T12:30:55.211Z info: Starting server...
+2021-02-24T12:30:55.213Z info: Env: dev
+2021-02-24T12:30:57.059Z info: Initiating jwt
+2021-02-24T12:30:57.060Z info: DB is connected
+2021-02-24T12:30:57.060Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-02-24T12:30:57.064Z info: Server listening on port 3000. Enjoy!
+2021-02-24T12:58:03.941Z info: Starting server...
+2021-02-24T12:58:03.944Z info: Env: dev
+2021-02-24T12:58:08.805Z info: Initiating jwt
+2021-02-24T12:58:08.806Z info: DB is connected
+2021-02-24T12:58:08.807Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-02-24T12:58:08.810Z info: Server listening on port 3000. Enjoy!
+2021-02-24T15:28:35.608Z info: Starting server...
+2021-02-24T15:28:35.611Z info: Env: dev
+2021-02-24T15:28:37.443Z info: Initiating jwt
+2021-02-24T15:34:33.913Z info: Starting server...
+2021-02-24T15:34:33.917Z info: Env: dev
+2021-02-24T15:34:37.574Z info: Initiating jwt
+2021-02-24T15:35:13.453Z info: Starting server...
+2021-02-24T15:35:13.455Z info: Env: dev
+2021-02-24T15:35:20.414Z info: Initiating jwt
+2021-02-24T15:37:58.095Z info: Starting server...
+2021-02-24T15:37:58.098Z info: Env: dev
+2021-02-24T15:38:00.282Z info: Initiating jwt
+2021-02-24T15:38:00.283Z info: DB is connected
+2021-02-24T15:38:00.283Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-02-24T15:38:00.286Z info: Server listening on port 3000. Enjoy!
+2021-02-24T15:44:19.485Z info: Starting server...
+2021-02-24T15:44:19.488Z info: Env: dev
+2021-02-24T15:44:21.258Z info: Initiating jwt
+2021-02-24T15:44:21.261Z info: DB is connected
+2021-02-24T15:44:21.261Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-02-24T15:44:21.266Z info: Server listening on port 3000. Enjoy!
+2021-02-24T15:50:11.705Z info: Starting server...
+2021-02-24T15:50:11.708Z info: Env: dev
+2021-02-24T15:50:13.770Z info: Initiating jwt
+2021-02-24T15:50:13.774Z info: DB is connected
+2021-02-24T15:50:13.774Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-02-24T15:50:13.780Z info: Server listening on port 3000. Enjoy!
+2021-02-24T15:51:05.189Z info: Starting server...
+2021-02-24T15:51:05.192Z info: Env: dev
+2021-02-24T15:51:07.553Z info: Initiating jwt
+2021-02-24T15:51:07.554Z info: DB is connected
+2021-02-24T15:51:07.555Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-02-24T15:51:07.561Z info: Server listening on port 3000. Enjoy!
+2021-02-24T15:51:33.051Z info: Starting server...
+2021-02-24T15:51:33.053Z info: Env: dev
+2021-02-24T15:51:38.436Z info: Initiating jwt
+2021-02-24T15:51:38.437Z info: DB is connected
+2021-02-24T15:51:38.438Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-02-24T15:51:38.444Z info: Server listening on port 3000. Enjoy!
+2021-02-24T15:59:41.543Z info: Starting server...
+2021-02-24T15:59:41.546Z info: Env: dev
+2021-02-24T15:59:43.253Z info: Initiating jwt
+2021-02-24T15:59:43.255Z info: DB is connected
+2021-02-24T15:59:43.255Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-02-24T15:59:43.258Z info: Server listening on port 3000. Enjoy!
+2021-02-24T15:59:49.288Z error: unallowed option
+2021-02-24T15:59:49.289Z error: Un allowed
+2021-02-24T16:00:29.006Z info: Starting server...
+2021-02-24T16:00:29.009Z info: Env: dev
+2021-02-24T16:00:31.246Z info: Initiating jwt
+2021-02-24T16:00:31.247Z info: DB is connected
+2021-02-24T16:00:31.247Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-02-24T16:00:31.250Z info: Server listening on port 3000. Enjoy!
+2021-02-24T18:01:39.387Z info: Starting server...
+2021-02-24T18:01:39.390Z info: Env: dev
+2021-02-24T18:01:41.351Z info: Initiating jwt
+2021-02-24T18:01:41.356Z info: DB is connected
+2021-02-24T18:01:41.357Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-02-24T18:01:41.360Z info: Server listening on port 3000. Enjoy!
+2021-02-24T18:03:49.078Z info: Starting server...
+2021-02-24T18:03:49.080Z info: Env: dev
+2021-02-24T18:03:50.820Z info: Initiating jwt
+2021-02-24T18:03:50.822Z info: DB is connected
+2021-02-24T18:03:50.825Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-02-24T18:03:50.837Z info: Server listening on port 3000. Enjoy!
+2021-02-24T18:04:42.796Z info: Starting server...
+2021-02-24T18:04:42.798Z info: Env: dev
+2021-02-24T18:04:44.816Z info: Initiating jwt
+2021-02-24T18:04:44.821Z info: DB is connected
+2021-02-24T18:04:44.821Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-02-24T18:04:44.825Z info: Server listening on port 3000. Enjoy!
+2021-02-24T18:05:22.634Z info: Starting server...
+2021-02-24T18:05:22.637Z info: Env: dev
+2021-02-24T18:05:24.413Z info: Initiating jwt
+2021-02-24T18:05:24.417Z info: DB is connected
+2021-02-24T18:05:24.417Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-02-24T18:05:24.420Z info: Server listening on port 3000. Enjoy!
+2021-02-24T18:05:25.410Z error: Liked this post
+2021-02-24T18:05:25.411Z error: Liked this post
+2021-02-24T18:05:26.486Z error: Liked this post
+2021-02-24T18:05:26.488Z error: Liked this post
+2021-02-24T18:05:27.394Z error: Liked this post
+2021-02-24T18:05:27.394Z error: Liked this post
+2021-02-24T18:10:39.833Z info: Starting server...
+2021-02-24T18:10:39.835Z info: Env: dev
+2021-02-24T18:10:42.137Z info: Initiating jwt
+2021-02-24T18:10:42.138Z info: DB is connected
+2021-02-24T18:10:42.139Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-02-24T18:10:42.142Z info: Server listening on port 3000. Enjoy!
+2021-02-24T18:11:22.427Z info: Starting server...
+2021-02-24T18:11:22.429Z info: Env: dev
+2021-02-24T18:11:24.620Z info: Initiating jwt
+2021-02-24T18:11:24.622Z info: DB is connected
+2021-02-24T18:11:24.622Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-02-24T18:11:24.625Z info: Server listening on port 3000. Enjoy!
+2021-02-24T18:26:29.954Z info: Starting server...
+2021-02-24T18:26:29.956Z info: Env: dev
+2021-02-24T18:26:37.053Z info: Initiating jwt
+2021-02-24T18:26:37.053Z info: DB is connected
+2021-02-24T18:26:37.054Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-02-24T18:26:37.059Z info: Server listening on port 3000. Enjoy!
+2021-02-24T18:28:13.856Z info: Starting server...
+2021-02-24T18:28:13.858Z info: Env: dev
+2021-02-24T18:28:16.908Z info: Initiating jwt
+2021-02-24T18:28:16.909Z info: DB is connected
+2021-02-24T18:28:16.909Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-02-24T18:28:16.913Z info: Server listening on port 3000. Enjoy!
+2021-02-24T18:34:14.386Z info: Starting server...
+2021-02-24T18:34:14.389Z info: Env: dev
+2021-02-24T18:34:16.273Z info: Initiating jwt
+2021-02-24T18:34:16.275Z info: DB is connected
+2021-02-24T18:34:16.275Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-02-24T18:34:16.279Z info: Server listening on port 3000. Enjoy!
+2021-02-24T18:35:55.594Z info: Starting server...
+2021-02-24T18:35:55.597Z info: Env: dev
+2021-02-24T18:35:57.439Z info: Initiating jwt
+2021-02-24T18:35:57.441Z info: DB is connected
+2021-02-24T18:35:57.442Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-02-24T18:35:57.446Z info: Server listening on port 3000. Enjoy!
+2021-02-24T18:37:39.368Z info: Starting server...
+2021-02-24T18:37:39.371Z info: Env: dev
+2021-02-24T18:37:41.521Z info: Initiating jwt
+2021-02-24T18:37:41.522Z info: DB is connected
+2021-02-24T18:37:41.523Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-02-24T18:37:41.527Z info: Server listening on port 3000. Enjoy!
+2021-02-25T05:49:07.451Z info: Starting server...
+2021-02-25T05:49:07.455Z info: Env: dev
+2021-02-25T05:49:09.690Z info: Initiating jwt
+2021-02-25T05:49:09.690Z info: DB is connected
+2021-02-25T05:49:09.691Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-02-25T05:49:09.694Z info: Server listening on port 3001. Enjoy!
+2021-03-05T07:24:46.808Z info: Starting server...
+2021-03-05T07:24:46.811Z info: Env: dev
+2021-03-05T07:24:50.289Z info: Initiating jwt
+2021-03-05T07:24:50.290Z info: DB is connected
+2021-03-05T07:24:50.290Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T07:24:50.294Z info: Server listening on port 3001. Enjoy!
+2021-03-05T07:29:49.641Z info: Starting server...
+2021-03-05T07:29:49.644Z info: Env: dev
+2021-03-05T07:29:53.999Z info: Initiating jwt
+2021-03-05T07:29:54.000Z info: DB is connected
+2021-03-05T07:29:54.001Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T07:29:54.006Z info: Server listening on port 3001. Enjoy!
+2021-03-05T07:30:37.481Z info: Starting server...
+2021-03-05T07:30:37.484Z info: Env: dev
+2021-03-05T07:30:39.924Z info: Initiating jwt
+2021-03-05T07:30:39.925Z info: DB is connected
+2021-03-05T07:30:39.926Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T07:30:39.931Z info: Server listening on port 3001. Enjoy!
+2021-03-05T07:34:23.605Z info: Starting server...
+2021-03-05T07:34:23.607Z info: Env: dev
+2021-03-05T07:34:26.777Z info: Initiating jwt
+2021-03-05T07:34:26.780Z info: DB is connected
+2021-03-05T07:34:26.781Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T07:34:26.784Z info: Server listening on port 3001. Enjoy!
+2021-03-05T07:35:30.937Z info: Starting server...
+2021-03-05T07:35:30.939Z info: Env: dev
+2021-03-05T07:35:33.514Z info: Initiating jwt
+2021-03-05T07:35:33.516Z info: DB is connected
+2021-03-05T07:35:33.517Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T07:35:33.521Z info: Server listening on port 3001. Enjoy!
+2021-03-05T07:37:36.366Z info: Starting server...
+2021-03-05T07:37:36.369Z info: Env: dev
+2021-03-05T07:37:38.803Z info: Initiating jwt
+2021-03-05T07:37:38.804Z info: DB is connected
+2021-03-05T07:37:38.804Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T07:37:38.809Z info: Server listening on port 3001. Enjoy!
+2021-03-05T07:39:00.396Z info: Starting server...
+2021-03-05T07:39:00.399Z info: Env: dev
+2021-03-05T07:39:03.234Z info: Initiating jwt
+2021-03-05T07:39:03.237Z info: DB is connected
+2021-03-05T07:39:03.237Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T07:39:03.241Z info: Server listening on port 3001. Enjoy!
+2021-03-05T07:39:15.899Z info: Starting server...
+2021-03-05T07:39:15.902Z info: Env: dev
+2021-03-05T07:39:18.157Z info: Initiating jwt
+2021-03-05T07:39:18.158Z info: DB is connected
+2021-03-05T07:39:18.158Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T07:39:18.162Z info: Server listening on port 3001. Enjoy!
+2021-03-05T07:48:08.225Z info: Starting server...
+2021-03-05T07:48:08.228Z info: Env: dev
+2021-03-05T07:48:11.069Z info: Initiating jwt
+2021-03-05T07:48:11.070Z info: DB is connected
+2021-03-05T07:48:11.070Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T07:48:11.075Z info: Server listening on port 3001. Enjoy!
+2021-03-05T07:51:32.685Z info: Starting server...
+2021-03-05T07:51:32.688Z info: Env: dev
+2021-03-05T07:51:35.133Z info: Initiating jwt
+2021-03-05T07:51:35.134Z info: DB is connected
+2021-03-05T07:51:35.135Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T07:51:35.139Z info: Server listening on port 3001. Enjoy!
+2021-03-05T07:51:43.947Z info: Starting server...
+2021-03-05T07:51:43.950Z info: Env: dev
+2021-03-05T07:51:47.370Z info: Initiating jwt
+2021-03-05T07:51:47.371Z info: DB is connected
+2021-03-05T07:51:47.371Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T07:51:47.376Z info: Server listening on port 3001. Enjoy!
+2021-03-05T07:57:53.920Z info: Starting server...
+2021-03-05T07:57:53.922Z info: Env: dev
+2021-03-05T07:57:56.522Z info: Initiating jwt
+2021-03-05T07:57:56.523Z info: DB is connected
+2021-03-05T07:57:56.523Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T07:57:56.527Z info: Server listening on port 3001. Enjoy!
+2021-03-05T08:00:57.954Z info: Starting server...
+2021-03-05T08:00:57.956Z info: Env: dev
+2021-03-05T08:01:00.707Z info: Initiating jwt
+2021-03-05T08:01:00.708Z info: DB is connected
+2021-03-05T08:01:00.708Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T08:01:00.713Z info: Server listening on port 3001. Enjoy!
+2021-03-05T08:01:09.343Z info: Starting server...
+2021-03-05T08:01:09.345Z info: Env: dev
+2021-03-05T08:01:11.572Z info: Initiating jwt
+2021-03-05T08:01:11.573Z info: DB is connected
+2021-03-05T08:01:11.573Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T08:01:11.577Z info: Server listening on port 3001. Enjoy!
+2021-03-05T08:40:30.896Z info: Starting server...
+2021-03-05T08:40:30.898Z info: Env: dev
+2021-03-05T08:40:33.328Z info: Initiating jwt
+2021-03-05T08:40:33.329Z info: DB is connected
+2021-03-05T08:40:33.329Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T08:40:33.332Z info: Server listening on port 3001. Enjoy!
+2021-03-05T08:41:09.259Z info: Starting server...
+2021-03-05T08:41:09.261Z info: Env: dev
+2021-03-05T08:41:11.892Z info: Initiating jwt
+2021-03-05T08:41:11.893Z info: DB is connected
+2021-03-05T08:41:11.893Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T08:41:11.897Z info: Server listening on port 3001. Enjoy!
+2021-03-05T08:42:28.874Z info: Starting server...
+2021-03-05T08:42:28.876Z info: Env: dev
+2021-03-05T08:42:36.392Z info: Initiating jwt
+2021-03-05T08:42:36.393Z info: DB is connected
+2021-03-05T08:42:36.393Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T08:42:36.397Z info: Server listening on port 3001. Enjoy!
+2021-03-05T08:43:39.816Z info: Starting server...
+2021-03-05T08:43:39.819Z info: Env: dev
+2021-03-05T08:43:42.378Z info: Initiating jwt
+2021-03-05T08:43:42.379Z info: DB is connected
+2021-03-05T08:43:42.380Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T08:43:42.383Z info: Server listening on port 3001. Enjoy!
+2021-03-05T08:44:33.590Z info: Starting server...
+2021-03-05T08:44:33.593Z info: Env: dev
+2021-03-05T08:44:36.407Z info: Initiating jwt
+2021-03-05T08:44:36.408Z info: DB is connected
+2021-03-05T08:44:36.409Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T08:44:36.412Z info: Server listening on port 3001. Enjoy!
+2021-03-05T08:45:41.756Z info: Starting server...
+2021-03-05T08:45:41.758Z info: Env: dev
+2021-03-05T08:45:44.413Z info: Initiating jwt
+2021-03-05T08:45:44.414Z info: DB is connected
+2021-03-05T08:45:44.414Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T08:45:44.417Z info: Server listening on port 3001. Enjoy!
+2021-03-05T08:45:54.914Z info: Starting server...
+2021-03-05T08:45:54.916Z info: Env: dev
+2021-03-05T08:45:57.592Z info: Initiating jwt
+2021-03-05T08:45:57.594Z info: DB is connected
+2021-03-05T08:45:57.594Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T08:45:57.597Z info: Server listening on port 3001. Enjoy!
+2021-03-05T08:46:17.824Z info: Starting server...
+2021-03-05T08:46:17.827Z info: Env: dev
+2021-03-05T08:46:20.161Z info: Initiating jwt
+2021-03-05T08:46:20.162Z info: DB is connected
+2021-03-05T08:46:20.162Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T08:46:20.166Z info: Server listening on port 3001. Enjoy!
+2021-03-05T08:47:24.587Z info: Starting server...
+2021-03-05T08:47:24.589Z info: Env: dev
+2021-03-05T08:47:27.466Z info: Initiating jwt
+2021-03-05T08:47:27.467Z info: DB is connected
+2021-03-05T08:47:27.467Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T08:47:27.470Z info: Server listening on port 3001. Enjoy!
+2021-03-05T08:47:41.687Z info: Starting server...
+2021-03-05T08:47:41.689Z info: Env: dev
+2021-03-05T08:47:44.889Z info: Initiating jwt
+2021-03-05T08:47:44.890Z info: DB is connected
+2021-03-05T08:47:44.890Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T08:47:44.895Z info: Server listening on port 3001. Enjoy!
+2021-03-05T08:48:21.009Z info: Starting server...
+2021-03-05T08:48:21.011Z info: Env: dev
+2021-03-05T08:48:23.312Z info: Initiating jwt
+2021-03-05T08:48:23.314Z info: DB is connected
+2021-03-05T08:48:23.315Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T08:48:23.317Z info: Server listening on port 3001. Enjoy!
+2021-03-05T08:48:54.909Z info: Starting server...
+2021-03-05T08:48:54.911Z info: Env: dev
+2021-03-05T08:49:03.052Z info: Initiating jwt
+2021-03-05T08:49:03.053Z info: DB is connected
+2021-03-05T08:49:03.054Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T08:49:03.058Z info: Server listening on port 3001. Enjoy!
+2021-03-05T08:49:11.813Z info: Starting server...
+2021-03-05T08:49:11.816Z info: Env: dev
+2021-03-05T08:49:14.733Z info: Initiating jwt
+2021-03-05T08:49:14.734Z info: DB is connected
+2021-03-05T08:49:14.734Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T08:49:14.737Z info: Server listening on port 3001. Enjoy!
+2021-03-05T09:02:06.549Z info: Starting server...
+2021-03-05T09:02:06.551Z info: Env: dev
+2021-03-05T09:02:09.706Z info: Initiating jwt
+2021-03-05T09:02:09.707Z info: DB is connected
+2021-03-05T09:02:09.708Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T09:02:09.711Z info: Server listening on port 3001. Enjoy!
+2021-03-05T09:02:46.406Z info: Starting server...
+2021-03-05T09:02:46.408Z info: Env: dev
+2021-03-05T09:02:50.388Z info: Initiating jwt
+2021-03-05T09:02:50.389Z info: DB is connected
+2021-03-05T09:02:50.390Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T09:02:50.393Z info: Server listening on port 3001. Enjoy!
+2021-03-05T09:10:20.044Z info: Starting server...
+2021-03-05T09:10:20.046Z info: Env: dev
+2021-03-05T09:10:21.955Z info: Initiating jwt
+2021-03-05T09:10:21.957Z info: DB is connected
+2021-03-05T09:10:21.957Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T09:10:21.961Z info: Server listening on port 3001. Enjoy!
+2021-03-05T09:12:05.523Z info: Starting server...
+2021-03-05T09:12:05.525Z info: Env: dev
+2021-03-05T09:12:07.521Z info: Initiating jwt
+2021-03-05T09:12:07.523Z info: DB is connected
+2021-03-05T09:12:07.523Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T09:12:07.526Z info: Server listening on port 3001. Enjoy!
+2021-03-05T09:15:44.406Z info: Starting server...
+2021-03-05T09:15:44.409Z info: Env: dev
+2021-03-05T09:15:46.372Z info: Initiating jwt
+2021-03-05T09:15:46.373Z info: DB is connected
+2021-03-05T09:15:46.373Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T09:15:46.375Z info: Server listening on port 3001. Enjoy!
+2021-03-05T09:16:08.263Z info: Starting server...
+2021-03-05T09:16:08.265Z info: Env: dev
+2021-03-05T09:16:10.128Z info: Initiating jwt
+2021-03-05T09:16:10.129Z info: DB is connected
+2021-03-05T09:16:10.129Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T09:16:10.132Z info: Server listening on port 3001. Enjoy!
+2021-03-05T09:16:44.789Z info: Starting server...
+2021-03-05T09:16:44.791Z info: Env: dev
+2021-03-05T09:16:46.501Z info: Initiating jwt
+2021-03-05T09:16:46.503Z info: DB is connected
+2021-03-05T09:16:46.503Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T09:16:46.506Z info: Server listening on port 3001. Enjoy!
+2021-03-05T09:18:17.044Z info: Starting server...
+2021-03-05T09:18:17.046Z info: Env: dev
+2021-03-05T09:18:18.708Z info: Initiating jwt
+2021-03-05T09:18:18.709Z info: DB is connected
+2021-03-05T09:18:18.709Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T09:18:18.711Z info: Server listening on port 3001. Enjoy!
+2021-03-05T09:18:36.051Z info: Starting server...
+2021-03-05T09:18:36.054Z info: Env: dev
+2021-03-05T09:18:37.854Z info: Initiating jwt
+2021-03-05T09:18:37.855Z info: DB is connected
+2021-03-05T09:18:37.856Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T09:18:37.859Z info: Server listening on port 3001. Enjoy!
+2021-03-05T09:18:55.657Z info: Starting server...
+2021-03-05T09:18:55.659Z info: Env: dev
+2021-03-05T09:18:57.608Z info: Initiating jwt
+2021-03-05T09:18:57.608Z info: DB is connected
+2021-03-05T09:18:57.609Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T09:18:57.613Z info: Server listening on port 3001. Enjoy!
+2021-03-05T09:19:16.738Z info: Starting server...
+2021-03-05T09:19:16.740Z info: Env: dev
+2021-03-05T09:19:18.625Z info: Initiating jwt
+2021-03-05T09:19:18.626Z info: DB is connected
+2021-03-05T09:19:18.627Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T09:19:18.630Z info: Server listening on port 3001. Enjoy!
+2021-03-05T09:19:46.112Z info: Starting server...
+2021-03-05T09:19:46.114Z info: Env: dev
+2021-03-05T09:19:48.036Z info: Initiating jwt
+2021-03-05T09:19:48.037Z info: DB is connected
+2021-03-05T09:19:48.038Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T09:19:48.041Z info: Server listening on port 3001. Enjoy!
+2021-03-05T09:23:26.989Z info: Starting server...
+2021-03-05T09:23:26.992Z info: Env: dev
+2021-03-05T09:23:33.686Z info: Initiating jwt
+2021-03-05T09:23:33.688Z info: DB is connected
+2021-03-05T09:23:33.688Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T09:23:33.692Z info: Server listening on port 3001. Enjoy!
+2021-03-05T10:38:27.041Z info: Starting server...
+2021-03-05T10:38:27.044Z info: Env: dev
+2021-03-05T10:38:28.802Z info: Initiating jwt
+2021-03-05T10:38:28.803Z info: DB is connected
+2021-03-05T10:38:28.804Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T10:38:28.806Z info: Server listening on port 3001. Enjoy!
+2021-03-05T10:38:37.852Z info: Starting server...
+2021-03-05T10:38:37.855Z info: Env: dev
+2021-03-05T10:38:39.892Z info: Initiating jwt
+2021-03-05T10:38:39.892Z info: DB is connected
+2021-03-05T10:38:39.893Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T10:38:39.895Z info: Server listening on port 3001. Enjoy!
+2021-03-05T10:38:53.015Z info: Starting server...
+2021-03-05T10:38:53.017Z info: Env: dev
+2021-03-05T10:38:54.899Z info: Initiating jwt
+2021-03-05T10:38:54.900Z info: DB is connected
+2021-03-05T10:38:54.901Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T10:38:54.903Z info: Server listening on port 3001. Enjoy!
+2021-03-05T10:39:02.280Z info: Starting server...
+2021-03-05T10:39:02.283Z info: Env: dev
+2021-03-05T10:39:05.094Z info: Initiating jwt
+2021-03-05T10:39:05.095Z info: DB is connected
+2021-03-05T10:39:05.095Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T10:39:05.098Z info: Server listening on port 3001. Enjoy!
+2021-03-05T10:44:43.891Z info: Starting server...
+2021-03-05T10:44:43.893Z info: Env: dev
+2021-03-05T10:44:45.676Z info: Initiating jwt
+2021-03-05T10:44:45.678Z info: DB is connected
+2021-03-05T10:44:45.678Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T10:44:45.681Z info: Server listening on port 3001. Enjoy!
+2021-03-05T10:48:11.401Z info: Starting server...
+2021-03-05T10:48:11.403Z info: Env: dev
+2021-03-05T10:48:13.636Z info: Initiating jwt
+2021-03-05T10:48:13.637Z info: DB is connected
+2021-03-05T10:48:13.638Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T10:48:13.641Z info: Server listening on port 3001. Enjoy!
+2021-03-05T10:48:40.283Z info: Starting server...
+2021-03-05T10:48:40.285Z info: Env: dev
+2021-03-05T10:48:42.507Z info: Initiating jwt
+2021-03-05T10:48:42.507Z info: DB is connected
+2021-03-05T10:48:42.508Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T10:48:42.511Z info: Server listening on port 3001. Enjoy!
+2021-03-05T10:49:40.986Z info: Starting server...
+2021-03-05T10:49:40.989Z info: Env: dev
+2021-03-05T10:49:42.706Z info: Initiating jwt
+2021-03-05T10:49:42.707Z info: DB is connected
+2021-03-05T10:49:42.707Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T10:49:42.709Z info: Server listening on port 3001. Enjoy!
+2021-03-05T10:49:48.503Z info: Starting server...
+2021-03-05T10:49:48.506Z info: Env: dev
+2021-03-05T10:49:50.367Z info: Initiating jwt
+2021-03-05T10:49:50.369Z info: DB is connected
+2021-03-05T10:49:50.369Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T10:49:50.372Z info: Server listening on port 3001. Enjoy!
+2021-03-05T10:51:04.744Z info: Starting server...
+2021-03-05T10:51:04.747Z info: Env: dev
+2021-03-05T10:51:06.534Z info: Initiating jwt
+2021-03-05T10:51:06.536Z info: DB is connected
+2021-03-05T10:51:06.536Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T10:51:06.539Z info: Server listening on port 3001. Enjoy!
+2021-03-05T10:51:14.269Z info: Starting server...
+2021-03-05T10:51:14.272Z info: Env: dev
+2021-03-05T10:51:16.109Z info: Initiating jwt
+2021-03-05T10:51:16.111Z info: DB is connected
+2021-03-05T10:51:16.111Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T10:51:16.114Z info: Server listening on port 3001. Enjoy!
+2021-03-05T10:54:00.599Z info: Starting server...
+2021-03-05T10:54:00.602Z info: Env: dev
+2021-03-05T10:54:07.439Z info: Initiating jwt
+2021-03-05T10:54:07.440Z info: DB is connected
+2021-03-05T10:54:07.441Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T10:54:07.443Z info: Server listening on port 3001. Enjoy!
+2021-03-05T10:54:35.827Z info: Starting server...
+2021-03-05T10:54:35.830Z info: Env: dev
+2021-03-05T10:54:37.635Z info: Initiating jwt
+2021-03-05T10:54:37.636Z info: DB is connected
+2021-03-05T10:54:37.636Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T10:54:37.640Z info: Server listening on port 3001. Enjoy!
+2021-03-05T10:56:12.682Z info: Starting server...
+2021-03-05T10:56:12.684Z info: Env: dev
+2021-03-05T10:56:14.364Z info: Initiating jwt
+2021-03-05T10:56:14.364Z info: DB is connected
+2021-03-05T10:56:14.365Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T10:56:14.375Z info: Server listening on port 3001. Enjoy!
+2021-03-05T10:56:18.817Z info: Starting server...
+2021-03-05T10:56:18.819Z info: Env: dev
+2021-03-05T10:56:20.790Z info: Initiating jwt
+2021-03-05T10:56:20.792Z info: DB is connected
+2021-03-05T10:56:20.792Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T10:56:20.796Z info: Server listening on port 3001. Enjoy!
+2021-03-05T10:57:53.169Z info: Starting server...
+2021-03-05T10:57:53.171Z info: Env: dev
+2021-03-05T10:57:55.845Z info: Initiating jwt
+2021-03-05T10:57:55.847Z info: DB is connected
+2021-03-05T10:57:55.847Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T10:57:55.850Z info: Server listening on port 3001. Enjoy!
+2021-03-05T11:00:12.551Z info: Starting server...
+2021-03-05T11:00:12.554Z info: Env: dev
+2021-03-05T11:00:14.397Z info: Initiating jwt
+2021-03-05T11:00:14.398Z info: DB is connected
+2021-03-05T11:00:14.398Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T11:00:14.403Z info: Server listening on port 3001. Enjoy!
+2021-03-05T11:01:04.704Z info: Starting server...
+2021-03-05T11:01:04.707Z info: Env: dev
+2021-03-05T11:01:06.526Z info: Initiating jwt
+2021-03-05T11:01:06.527Z info: DB is connected
+2021-03-05T11:01:06.527Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T11:01:06.531Z info: Server listening on port 3001. Enjoy!
+2021-03-05T11:01:22.204Z info: Starting server...
+2021-03-05T11:01:22.206Z info: Env: dev
+2021-03-05T11:01:24.372Z info: Initiating jwt
+2021-03-05T11:01:24.373Z info: DB is connected
+2021-03-05T11:01:24.374Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T11:01:24.377Z info: Server listening on port 3001. Enjoy!
+2021-03-05T11:01:54.987Z info: Starting server...
+2021-03-05T11:01:54.990Z info: Env: dev
+2021-03-05T11:01:56.796Z info: Initiating jwt
+2021-03-05T11:01:56.797Z info: DB is connected
+2021-03-05T11:01:56.797Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T11:01:56.800Z info: Server listening on port 3001. Enjoy!
+2021-03-05T11:04:43.648Z info: Starting server...
+2021-03-05T11:04:43.650Z info: Env: dev
+2021-03-05T11:04:45.574Z info: Initiating jwt
+2021-03-05T11:04:45.576Z info: DB is connected
+2021-03-05T11:04:45.576Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T11:04:45.579Z info: Server listening on port 3001. Enjoy!
+2021-03-05T11:05:07.847Z info: Starting server...
+2021-03-05T11:05:07.849Z info: Env: dev
+2021-03-05T11:05:09.710Z info: Initiating jwt
+2021-03-05T11:05:09.712Z info: DB is connected
+2021-03-05T11:05:09.712Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T11:05:09.715Z info: Server listening on port 3001. Enjoy!
+2021-03-05T11:07:25.092Z info: Starting server...
+2021-03-05T11:07:25.094Z info: Env: dev
+2021-03-05T11:07:26.905Z info: Initiating jwt
+2021-03-05T11:07:26.906Z info: DB is connected
+2021-03-05T11:07:26.907Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T11:07:26.909Z info: Server listening on port 3001. Enjoy!
+2021-03-05T11:07:40.056Z info: Starting server...
+2021-03-05T11:07:40.058Z info: Env: dev
+2021-03-05T11:07:41.763Z info: Initiating jwt
+2021-03-05T11:07:41.764Z info: DB is connected
+2021-03-05T11:07:41.765Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T11:07:41.768Z info: Server listening on port 3001. Enjoy!
+2021-03-05T11:08:07.554Z info: Starting server...
+2021-03-05T11:08:07.557Z info: Env: dev
+2021-03-05T11:08:09.303Z info: Initiating jwt
+2021-03-05T11:08:09.304Z info: DB is connected
+2021-03-05T11:08:09.304Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T11:08:09.309Z info: Server listening on port 3001. Enjoy!
+2021-03-05T11:10:32.624Z info: Starting server...
+2021-03-05T11:10:32.626Z info: Env: dev
+2021-03-05T11:10:34.710Z info: Initiating jwt
+2021-03-05T11:10:34.712Z info: DB is connected
+2021-03-05T11:10:34.712Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T11:10:34.716Z info: Server listening on port 3001. Enjoy!
+2021-03-05T11:10:52.538Z info: Starting server...
+2021-03-05T11:10:52.540Z info: Env: dev
+2021-03-05T11:10:54.356Z info: Initiating jwt
+2021-03-05T11:10:54.357Z info: DB is connected
+2021-03-05T11:10:54.358Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T11:10:54.362Z info: Server listening on port 3001. Enjoy!
+2021-03-05T12:13:30.826Z info: Starting server...
+2021-03-05T12:13:30.829Z info: Env: dev
+2021-03-05T12:13:32.918Z info: Initiating jwt
+2021-03-05T12:13:32.920Z info: DB is connected
+2021-03-05T12:13:32.920Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T12:13:32.924Z info: Server listening on port 3001. Enjoy!
+2021-03-05T12:14:59.419Z info: Starting server...
+2021-03-05T12:14:59.421Z info: Env: dev
+2021-03-05T12:15:01.176Z info: Initiating jwt
+2021-03-05T12:15:01.177Z info: DB is connected
+2021-03-05T12:15:01.178Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T12:15:01.183Z info: Server listening on port 3001. Enjoy!
+2021-03-05T12:15:28.602Z info: Starting server...
+2021-03-05T12:15:28.604Z info: Env: dev
+2021-03-05T12:15:30.475Z info: Initiating jwt
+2021-03-05T12:15:30.476Z info: DB is connected
+2021-03-05T12:15:30.476Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T12:15:30.479Z info: Server listening on port 3001. Enjoy!
+2021-03-05T12:15:35.615Z info: Starting server...
+2021-03-05T12:15:35.618Z info: Env: dev
+2021-03-05T12:15:37.412Z info: Initiating jwt
+2021-03-05T12:15:37.413Z info: DB is connected
+2021-03-05T12:15:37.414Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T12:15:37.416Z info: Server listening on port 3001. Enjoy!
+2021-03-05T12:18:27.690Z info: Starting server...
+2021-03-05T12:18:27.692Z info: Env: dev
+2021-03-05T12:18:29.410Z info: Initiating jwt
+2021-03-05T12:18:29.411Z info: DB is connected
+2021-03-05T12:18:29.412Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T12:18:29.415Z info: Server listening on port 3001. Enjoy!
+2021-03-05T12:18:51.734Z info: Starting server...
+2021-03-05T12:18:51.736Z info: Env: dev
+2021-03-05T12:18:53.596Z info: Initiating jwt
+2021-03-05T12:18:53.597Z info: DB is connected
+2021-03-05T12:18:53.598Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T12:18:53.603Z info: Server listening on port 3001. Enjoy!
+2021-03-05T12:21:58.588Z info: Starting server...
+2021-03-05T12:21:58.591Z info: Env: dev
+2021-03-05T12:22:00.300Z info: Initiating jwt
+2021-03-05T12:22:00.301Z info: DB is connected
+2021-03-05T12:22:00.302Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T12:22:00.305Z info: Server listening on port 3001. Enjoy!
+2021-03-05T12:24:22.690Z info: Starting server...
+2021-03-05T12:24:22.693Z info: Env: dev
+2021-03-05T12:24:24.459Z info: Initiating jwt
+2021-03-05T12:24:24.460Z info: DB is connected
+2021-03-05T12:24:24.460Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T12:24:24.465Z info: Server listening on port 3001. Enjoy!
+2021-03-05T12:29:44.926Z info: Starting server...
+2021-03-05T12:29:44.928Z info: Env: dev
+2021-03-05T12:29:46.701Z info: Initiating jwt
+2021-03-05T12:29:46.702Z info: DB is connected
+2021-03-05T12:29:46.702Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T12:29:46.707Z info: Server listening on port 3001. Enjoy!
+2021-03-05T12:31:30.321Z info: Starting server...
+2021-03-05T12:31:30.324Z info: Env: dev
+2021-03-05T12:31:32.101Z info: Initiating jwt
+2021-03-05T12:31:32.102Z info: DB is connected
+2021-03-05T12:31:32.102Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T12:31:32.106Z info: Server listening on port 3001. Enjoy!
+2021-03-05T12:34:58.584Z info: Starting server...
+2021-03-05T12:34:58.587Z info: Env: dev
+2021-03-05T12:35:00.516Z info: Initiating jwt
+2021-03-05T12:35:00.517Z info: DB is connected
+2021-03-05T12:35:00.517Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T12:35:00.520Z info: Server listening on port 3001. Enjoy!
+2021-03-05T12:39:36.864Z info: Starting server...
+2021-03-05T12:39:36.866Z info: Env: dev
+2021-03-05T12:39:38.708Z info: Initiating jwt
+2021-03-05T12:39:38.709Z info: DB is connected
+2021-03-05T12:39:38.709Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T12:39:38.711Z info: Server listening on port 3001. Enjoy!
+2021-03-05T12:40:01.840Z info: Starting server...
+2021-03-05T12:40:01.842Z info: Env: dev
+2021-03-05T12:40:03.661Z info: Initiating jwt
+2021-03-05T12:40:03.662Z info: DB is connected
+2021-03-05T12:40:03.663Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T12:40:03.666Z info: Server listening on port 3001. Enjoy!
+2021-03-05T15:51:59.342Z info: Starting server...
+2021-03-05T15:51:59.345Z info: Env: dev
+2021-03-05T15:52:01.095Z info: Initiating jwt
+2021-03-05T15:52:01.096Z info: DB is connected
+2021-03-05T15:52:01.097Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T15:52:01.099Z info: Server listening on port 3001. Enjoy!
+2021-03-05T15:52:45.147Z info: Starting server...
+2021-03-05T15:52:45.149Z info: Env: dev
+2021-03-05T15:52:46.926Z info: Initiating jwt
+2021-03-05T15:52:46.926Z info: DB is connected
+2021-03-05T15:52:46.927Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T15:52:46.930Z info: Server listening on port 3001. Enjoy!
+2021-03-05T15:53:13.784Z info: Starting server...
+2021-03-05T15:53:13.786Z info: Env: dev
+2021-03-05T15:53:15.508Z info: Initiating jwt
+2021-03-05T15:53:15.509Z info: DB is connected
+2021-03-05T15:53:15.509Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T15:53:15.512Z info: Server listening on port 3001. Enjoy!
+2021-03-05T15:53:43.103Z info: Starting server...
+2021-03-05T15:53:43.106Z info: Env: dev
+2021-03-05T15:53:44.606Z info: Initiating jwt
+2021-03-05T15:53:44.607Z info: DB is connected
+2021-03-05T15:53:44.608Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T15:53:44.612Z info: Server listening on port 3001. Enjoy!
+2021-03-05T15:54:09.199Z info: Starting server...
+2021-03-05T15:54:09.201Z info: Env: dev
+2021-03-05T15:54:11.056Z info: Initiating jwt
+2021-03-05T15:54:11.057Z info: DB is connected
+2021-03-05T15:54:11.058Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T15:54:11.061Z info: Server listening on port 3001. Enjoy!
+2021-03-05T15:56:49.360Z info: Starting server...
+2021-03-05T15:56:49.363Z info: Env: dev
+2021-03-05T15:56:51.194Z info: Initiating jwt
+2021-03-05T15:56:51.195Z info: DB is connected
+2021-03-05T15:56:51.195Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T15:56:51.198Z info: Server listening on port 3001. Enjoy!
+2021-03-05T15:57:25.746Z info: Starting server...
+2021-03-05T15:57:25.748Z info: Env: dev
+2021-03-05T15:57:27.534Z info: Initiating jwt
+2021-03-05T15:57:27.535Z info: DB is connected
+2021-03-05T15:57:27.535Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T15:57:27.538Z info: Server listening on port 3001. Enjoy!
+2021-03-05T15:57:54.899Z info: Starting server...
+2021-03-05T15:57:54.902Z info: Env: dev
+2021-03-05T15:57:56.676Z info: Initiating jwt
+2021-03-05T15:57:56.677Z info: DB is connected
+2021-03-05T15:57:56.677Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T15:57:56.680Z info: Server listening on port 3001. Enjoy!
+2021-03-05T15:58:05.018Z info: Starting server...
+2021-03-05T15:58:05.020Z info: Env: dev
+2021-03-05T15:58:08.129Z info: Initiating jwt
+2021-03-05T15:58:08.130Z info: DB is connected
+2021-03-05T15:58:08.131Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T15:58:08.135Z info: Server listening on port 3001. Enjoy!
+2021-03-05T15:58:15.272Z info: Starting server...
+2021-03-05T15:58:15.275Z info: Env: dev
+2021-03-05T15:59:20.152Z info: Starting server...
+2021-03-05T15:59:32.765Z info: Starting server...
+2021-03-05T16:01:37.264Z info: Starting server...
+2021-03-05T16:02:10.531Z info: Starting server...
+2021-03-05T16:02:10.533Z info: Env: dev
+2021-03-05T16:02:12.509Z info: Initiating jwt
+2021-03-05T16:02:12.509Z info: DB is connected
+2021-03-05T16:02:12.509Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T16:02:12.516Z info: Server listening on port 3001. Enjoy!
+2021-03-05T16:02:24.414Z info: Starting server...
+2021-03-05T16:02:24.416Z info: Env: dev
+2021-03-05T16:02:26.264Z info: Initiating jwt
+2021-03-05T16:02:26.266Z info: DB is connected
+2021-03-05T16:02:26.266Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T16:02:34.240Z info: Server listening on port 3001. Enjoy!
+2021-03-05T16:17:53.846Z info: Starting server...
+2021-03-05T16:17:53.848Z info: Env: dev
+2021-03-05T16:17:56.065Z info: Initiating jwt
+2021-03-05T16:17:56.069Z info: DB is connected
+2021-03-05T16:17:56.069Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T16:17:56.076Z info: Server listening on port 3001. Enjoy!
+2021-03-05T16:22:47.910Z info: Starting server...
+2021-03-05T16:22:47.912Z info: Env: dev
+2021-03-05T16:22:49.716Z info: Initiating jwt
+2021-03-05T16:22:49.720Z info: DB is connected
+2021-03-05T16:22:49.721Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T16:22:49.727Z info: Server listening on port 3001. Enjoy!
+2021-03-05T16:28:41.987Z info: Starting server...
+2021-03-05T16:28:41.989Z info: Env: dev
+2021-03-05T16:28:43.685Z info: Initiating jwt
+2021-03-05T16:28:43.686Z info: DB is connected
+2021-03-05T16:28:43.686Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T16:28:43.693Z info: Server listening on port 3001. Enjoy!
+2021-03-05T16:30:17.135Z info: Starting server...
+2021-03-05T16:30:17.138Z info: Env: dev
+2021-03-05T16:30:18.954Z info: Initiating jwt
+2021-03-05T16:30:18.959Z info: DB is connected
+2021-03-05T16:30:18.960Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T16:30:18.964Z info: Server listening on port 3001. Enjoy!
+2021-03-05T16:30:33.066Z info: Starting server...
+2021-03-05T16:30:33.069Z info: Env: dev
+2021-03-05T16:30:34.906Z info: Initiating jwt
+2021-03-05T16:30:34.908Z info: DB is connected
+2021-03-05T16:30:34.908Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T16:30:34.911Z info: Server listening on port 3001. Enjoy!
+2021-03-05T16:35:18.982Z info: Starting server...
+2021-03-05T16:35:18.985Z info: Env: dev
+2021-03-05T16:35:20.882Z info: Initiating jwt
+2021-03-05T16:35:20.883Z info: DB is connected
+2021-03-05T16:35:20.884Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T16:35:20.890Z info: Server listening on port 3001. Enjoy!
+2021-03-05T16:39:01.870Z info: Starting server...
+2021-03-05T16:39:01.873Z info: Env: dev
+2021-03-05T16:39:03.637Z info: Initiating jwt
+2021-03-05T16:39:03.639Z info: DB is connected
+2021-03-05T16:39:03.639Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T16:39:03.652Z info: Server listening on port 3001. Enjoy!
+2021-03-05T16:39:38.763Z info: Starting server...
+2021-03-05T16:39:38.765Z info: Env: dev
+2021-03-05T16:39:40.727Z info: Initiating jwt
+2021-03-05T16:39:40.728Z info: DB is connected
+2021-03-05T16:39:40.729Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T16:39:40.734Z info: Server listening on port 3001. Enjoy!
+2021-03-05T16:41:21.226Z info: Starting server...
+2021-03-05T16:41:21.228Z info: Env: dev
+2021-03-05T16:41:22.999Z info: Initiating jwt
+2021-03-05T16:41:23.000Z info: DB is connected
+2021-03-05T16:41:23.000Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T16:41:23.009Z info: Server listening on port 3001. Enjoy!
+2021-03-05T16:42:00.966Z info: Starting server...
+2021-03-05T16:42:00.969Z info: Env: dev
+2021-03-05T16:42:02.785Z info: Initiating jwt
+2021-03-05T16:42:02.787Z info: DB is connected
+2021-03-05T16:42:02.787Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T16:42:02.792Z info: Server listening on port 3001. Enjoy!
+2021-03-05T16:42:32.846Z info: Starting server...
+2021-03-05T16:42:32.849Z info: Env: dev
+2021-03-05T16:42:34.575Z info: Initiating jwt
+2021-03-05T16:42:34.576Z info: DB is connected
+2021-03-05T16:42:34.576Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T16:42:34.582Z info: Server listening on port 3001. Enjoy!
+2021-03-05T16:43:05.015Z info: Starting server...
+2021-03-05T16:43:05.018Z info: Env: dev
+2021-03-05T16:43:06.773Z info: Initiating jwt
+2021-03-05T16:43:06.775Z info: DB is connected
+2021-03-05T16:43:06.776Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T16:43:06.780Z info: Server listening on port 3001. Enjoy!
+2021-03-05T16:43:41.710Z info: Starting server...
+2021-03-05T16:43:41.712Z info: Env: dev
+2021-03-05T16:43:43.657Z info: Initiating jwt
+2021-03-05T16:43:43.658Z info: DB is connected
+2021-03-05T16:43:43.658Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T16:43:43.663Z info: Server listening on port 3001. Enjoy!
+2021-03-05T16:44:00.873Z info: Starting server...
+2021-03-05T16:44:00.875Z info: Env: dev
+2021-03-05T16:44:03.036Z info: Initiating jwt
+2021-03-05T16:44:03.037Z info: DB is connected
+2021-03-05T16:44:03.037Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T16:44:03.042Z info: Server listening on port 3001. Enjoy!
+2021-03-05T16:44:34.361Z info: Starting server...
+2021-03-05T16:44:34.364Z info: Env: dev
+2021-03-05T16:44:36.393Z info: Initiating jwt
+2021-03-05T16:44:36.395Z info: DB is connected
+2021-03-05T16:44:36.395Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T16:44:36.400Z info: Server listening on port 3001. Enjoy!
+2021-03-05T16:51:54.035Z info: Starting server...
+2021-03-05T16:51:54.038Z info: Env: dev
+2021-03-05T16:51:55.811Z info: Initiating jwt
+2021-03-05T16:51:55.812Z info: DB is connected
+2021-03-05T16:51:55.812Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T16:51:55.817Z info: Server listening on port 3001. Enjoy!
+2021-03-05T16:58:26.757Z info: Starting server...
+2021-03-05T16:58:26.759Z info: Env: dev
+2021-03-05T16:58:28.466Z info: Initiating jwt
+2021-03-05T16:58:28.467Z info: DB is connected
+2021-03-05T16:58:28.467Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T16:58:28.473Z info: Server listening on port 3001. Enjoy!
+2021-03-05T17:04:57.193Z info: Starting server...
+2021-03-05T17:04:57.196Z info: Env: dev
+2021-03-05T17:04:59.000Z info: Initiating jwt
+2021-03-05T17:04:59.001Z info: DB is connected
+2021-03-05T17:04:59.001Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T17:04:59.006Z info: Server listening on port 3001. Enjoy!
+2021-03-05T17:05:50.432Z info: Starting server...
+2021-03-05T17:05:50.434Z info: Env: dev
+2021-03-05T17:05:52.256Z info: Initiating jwt
+2021-03-05T17:05:52.257Z info: DB is connected
+2021-03-05T17:05:52.257Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T17:05:52.264Z info: Server listening on port 3001. Enjoy!
+2021-03-05T17:08:03.782Z info: Starting server...
+2021-03-05T17:08:03.785Z info: Env: dev
+2021-03-05T17:08:05.484Z info: Initiating jwt
+2021-03-05T17:08:05.485Z info: DB is connected
+2021-03-05T17:08:05.486Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T17:08:05.491Z info: Server listening on port 3001. Enjoy!
+2021-03-05T17:09:26.026Z info: Starting server...
+2021-03-05T17:09:26.028Z info: Env: dev
+2021-03-05T17:09:28.007Z info: Initiating jwt
+2021-03-05T17:09:28.008Z info: DB is connected
+2021-03-05T17:09:28.009Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T17:09:28.013Z info: Server listening on port 3001. Enjoy!
+2021-03-05T17:10:04.456Z info: Starting server...
+2021-03-05T17:10:04.459Z info: Env: dev
+2021-03-05T17:10:06.224Z info: Initiating jwt
+2021-03-05T17:10:06.225Z info: DB is connected
+2021-03-05T17:10:06.225Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T17:10:06.233Z info: Server listening on port 3001. Enjoy!
+2021-03-05T17:12:29.521Z info: Starting server...
+2021-03-05T17:12:29.524Z info: Env: dev
+2021-03-05T17:12:31.275Z info: Initiating jwt
+2021-03-05T17:12:31.278Z info: DB is connected
+2021-03-05T17:12:31.279Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T17:12:31.284Z info: Server listening on port 3001. Enjoy!
+2021-03-05T17:14:06.156Z info: Starting server...
+2021-03-05T17:14:06.158Z info: Env: dev
+2021-03-05T17:14:07.939Z info: Initiating jwt
+2021-03-05T17:14:07.940Z info: DB is connected
+2021-03-05T17:14:07.940Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T17:14:07.945Z info: Server listening on port 3001. Enjoy!
+2021-03-05T17:14:34.504Z info: Starting server...
+2021-03-05T17:14:34.506Z info: Env: dev
+2021-03-05T17:14:36.323Z info: Initiating jwt
+2021-03-05T17:14:36.326Z info: DB is connected
+2021-03-05T17:14:36.328Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T17:14:36.339Z info: Server listening on port 3001. Enjoy!
+2021-03-05T17:15:40.189Z info: Starting server...
+2021-03-05T17:15:40.191Z info: Env: dev
+2021-03-05T17:15:42.036Z info: Initiating jwt
+2021-03-05T17:15:42.037Z info: DB is connected
+2021-03-05T17:15:42.038Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T17:15:42.044Z info: Server listening on port 3001. Enjoy!
+2021-03-05T17:16:50.991Z info: Starting server...
+2021-03-05T17:16:50.993Z info: Env: dev
+2021-03-05T17:16:52.779Z info: Initiating jwt
+2021-03-05T17:16:52.780Z info: DB is connected
+2021-03-05T17:16:52.780Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T17:16:52.787Z info: Server listening on port 3001. Enjoy!
+2021-03-05T17:17:55.459Z info: Starting server...
+2021-03-05T17:17:55.461Z info: Env: dev
+2021-03-05T17:17:57.202Z info: Initiating jwt
+2021-03-05T17:17:57.202Z info: DB is connected
+2021-03-05T17:17:57.203Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T17:17:57.208Z info: Server listening on port 3001. Enjoy!
+2021-03-05T17:18:35.691Z info: Starting server...
+2021-03-05T17:18:35.694Z info: Env: dev
+2021-03-05T17:18:37.954Z info: Initiating jwt
+2021-03-05T17:18:37.955Z info: DB is connected
+2021-03-05T17:18:37.956Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T17:18:37.961Z info: Server listening on port 3001. Enjoy!
+2021-03-05T17:19:10.189Z info: Starting server...
+2021-03-05T17:19:10.191Z info: Env: dev
+2021-03-05T17:19:11.865Z info: Initiating jwt
+2021-03-05T17:19:11.868Z info: DB is connected
+2021-03-05T17:19:11.868Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T17:19:11.876Z info: Server listening on port 3001. Enjoy!
+2021-03-05T17:21:08.059Z info: Starting server...
+2021-03-05T17:21:08.062Z info: Env: dev
+2021-03-05T17:21:09.824Z info: Initiating jwt
+2021-03-05T17:21:09.824Z info: DB is connected
+2021-03-05T17:21:09.825Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T17:21:09.833Z info: Server listening on port 3001. Enjoy!
+2021-03-05T17:21:22.067Z info: Starting server...
+2021-03-05T17:21:22.069Z info: Env: dev
+2021-03-05T17:21:23.747Z info: Initiating jwt
+2021-03-05T17:21:23.748Z info: DB is connected
+2021-03-05T17:21:23.748Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T17:21:23.753Z info: Server listening on port 3001. Enjoy!
+2021-03-05T17:21:41.676Z info: Starting server...
+2021-03-05T17:21:41.679Z info: Env: dev
+2021-03-05T17:21:43.457Z info: Initiating jwt
+2021-03-05T17:21:43.458Z info: DB is connected
+2021-03-05T17:21:43.459Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T17:21:43.464Z info: Server listening on port 3001. Enjoy!
+2021-03-05T17:25:28.594Z info: Starting server...
+2021-03-05T17:25:28.597Z info: Env: dev
+2021-03-05T17:25:30.473Z info: Initiating jwt
+2021-03-05T17:25:30.475Z info: DB is connected
+2021-03-05T17:25:30.475Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T17:25:30.480Z info: Server listening on port 3001. Enjoy!
+2021-03-05T17:25:54.159Z info: Starting server...
+2021-03-05T17:25:54.161Z info: Env: dev
+2021-03-05T17:25:55.920Z info: Initiating jwt
+2021-03-05T17:25:55.922Z info: DB is connected
+2021-03-05T17:25:55.922Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T17:25:55.927Z info: Server listening on port 3001. Enjoy!
+2021-03-05T17:26:19.281Z info: Starting server...
+2021-03-05T17:26:19.284Z info: Env: dev
+2021-03-05T17:26:21.004Z info: Initiating jwt
+2021-03-05T17:26:21.005Z info: DB is connected
+2021-03-05T17:26:21.005Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T17:26:21.012Z info: Server listening on port 3001. Enjoy!
+2021-03-05T17:26:49.208Z info: Starting server...
+2021-03-05T17:26:49.210Z info: Env: dev
+2021-03-05T17:26:50.958Z info: Initiating jwt
+2021-03-05T17:26:50.960Z info: DB is connected
+2021-03-05T17:26:50.960Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T17:26:50.965Z info: Server listening on port 3001. Enjoy!
+2021-03-05T17:32:07.342Z info: Starting server...
+2021-03-05T17:32:07.345Z info: Env: dev
+2021-03-05T17:32:09.153Z info: DB is connected
+2021-03-05T17:32:09.156Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T17:32:09.169Z info: Server listening on port 3001. Enjoy!
+2021-03-05T17:34:56.321Z info: Starting server...
+2021-03-05T17:34:56.324Z info: Env: dev
+2021-03-05T17:34:58.073Z info: DB is connected
+2021-03-05T17:34:58.076Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T17:34:58.090Z info: Server listening on port 3001. Enjoy!
+2021-03-05T17:36:20.028Z info: Starting server...
+2021-03-05T17:36:20.030Z info: Env: dev
+2021-03-05T17:36:22.417Z info: DB is connected
+2021-03-05T17:36:22.421Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T17:36:22.431Z info: Server listening on port 3001. Enjoy!
+2021-03-05T17:36:56.137Z info: Starting server...
+2021-03-05T17:36:56.139Z info: Env: dev
+2021-03-05T17:36:58.122Z info: DB is connected
+2021-03-05T17:36:58.126Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T17:36:58.137Z info: Server listening on port 3001. Enjoy!
+2021-03-05T17:37:06.337Z info: Starting server...
+2021-03-05T17:37:06.339Z info: Env: dev
+2021-03-05T17:37:07.865Z info: DB is connected
+2021-03-05T17:37:07.866Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T17:37:07.879Z info: Server listening on port 3001. Enjoy!
+2021-03-05T17:37:53.813Z info: Starting server...
+2021-03-05T17:37:53.815Z info: Env: dev
+2021-03-05T17:37:55.593Z info: DB is connected
+2021-03-05T17:37:55.595Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T17:37:55.598Z info: Server listening on port 3001. Enjoy!
+2021-03-05T17:38:03.072Z info: Starting server...
+2021-03-05T17:38:03.075Z info: Env: dev
+2021-03-05T17:38:04.571Z info: DB is connected
+2021-03-05T17:38:04.575Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T17:38:04.581Z info: Server listening on port 3001. Enjoy!
+2021-03-05T17:38:40.277Z info: Starting server...
+2021-03-05T17:38:40.280Z info: Env: dev
+2021-03-05T17:38:42.319Z info: DB is connected
+2021-03-05T17:38:42.320Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T17:38:42.330Z info: Server listening on port 3001. Enjoy!
+2021-03-05T17:44:13.739Z info: Starting server...
+2021-03-05T17:44:13.742Z info: Env: dev
+2021-03-05T17:44:15.657Z info: DB is connected
+2021-03-05T17:44:15.660Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T17:44:15.672Z info: Server listening on port 3001. Enjoy!
+2021-03-05T17:45:08.333Z info: Starting server...
+2021-03-05T17:45:08.336Z info: Env: dev
+2021-03-05T17:45:15.183Z info: DB is connected
+2021-03-05T17:45:15.186Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T17:45:15.199Z info: Server listening on port 3001. Enjoy!
+2021-03-05T17:47:06.363Z info: Starting server...
+2021-03-05T17:47:06.366Z info: Env: dev
+2021-03-05T17:47:08.131Z info: DB is connected
+2021-03-05T17:47:08.134Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T17:47:08.145Z info: Server listening on port 3001. Enjoy!
+2021-03-05T17:47:44.454Z info: Starting server...
+2021-03-05T17:47:44.457Z info: Env: dev
+2021-03-05T17:47:46.187Z info: DB is connected
+2021-03-05T17:47:46.190Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T17:47:46.201Z info: Server listening on port 3001. Enjoy!
+2021-03-05T17:51:36.199Z info: Starting server...
+2021-03-05T17:51:36.202Z info: Env: dev
+2021-03-05T17:51:37.858Z info: DB is connected
+2021-03-05T17:51:37.861Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T17:51:37.874Z info: Server listening on port 3001. Enjoy!
+2021-03-05T17:52:41.832Z info: Starting server...
+2021-03-05T17:52:41.835Z info: Env: dev
+2021-03-05T17:52:43.614Z info: DB is connected
+2021-03-05T17:52:43.616Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T17:52:43.626Z info: Server listening on port 3001. Enjoy!
+2021-03-05T17:53:48.501Z info: Starting server...
+2021-03-05T17:53:48.504Z info: Env: dev
+2021-03-05T17:53:50.268Z info: DB is connected
+2021-03-05T17:53:50.271Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T17:53:50.284Z info: Server listening on port 3001. Enjoy!
+2021-03-05T18:11:43.024Z info: Starting server...
+2021-03-05T18:11:43.026Z info: Env: dev
+2021-03-05T18:11:45.444Z info: DB is connected
+2021-03-05T18:12:04.774Z info: DB is connected
+2021-03-05T18:12:04.777Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T18:12:22.256Z info: Starting server...
+2021-03-05T18:12:22.261Z info: Env: dev
+2021-03-05T18:12:24.216Z info: DB is connected
+2021-03-05T18:15:17.706Z info: Starting server...
+2021-03-05T18:15:17.708Z info: Env: dev
+2021-03-05T18:16:39.375Z info: Starting server...
+2021-03-05T18:16:39.377Z info: Env: dev
+2021-03-05T18:16:41.088Z info: DB is connected
+2021-03-05T18:16:58.528Z info: Starting server...
+2021-03-05T18:16:58.530Z info: Env: dev
+2021-03-05T18:17:00.237Z info: DB is connected
+2021-03-05T18:17:00.237Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T18:17:00.245Z info: DB is connected
+2021-03-05T18:17:00.245Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T18:17:00.254Z info: Server listening on port 3001. Enjoy!
+2021-03-05T18:17:00.254Z info: Server listening on port 3001. Enjoy!
+2021-03-05T18:24:59.147Z info: Starting server...
+2021-03-05T18:24:59.150Z info: Env: dev
+2021-03-05T18:25:00.824Z info: DB is connected
+2021-03-05T18:25:00.825Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T18:25:00.833Z info: Server listening on port 3001. Enjoy!
+2021-03-05T18:25:51.385Z info: Starting server...
+2021-03-05T18:25:51.387Z info: Env: dev
+2021-03-05T18:25:53.093Z info: DB is connected
+2021-03-05T18:25:53.097Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-05T18:25:53.115Z info: Server listening on port 3001. Enjoy!
+2021-03-06T08:59:44.636Z info: Starting server...
+2021-03-06T08:59:44.638Z info: Env: dev
+2021-03-06T08:59:46.550Z info: DB is connected
+2021-03-06T08:59:46.551Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-06T08:59:46.561Z info: Server listening on port 3001. Enjoy!
+2021-03-06T09:04:51.340Z info: Starting server...
+2021-03-06T09:04:51.343Z info: Env: dev
+2021-03-06T09:04:53.084Z info: DB is connected
+2021-03-06T09:04:53.085Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-06T09:04:53.097Z info: Server listening on port 3001. Enjoy!
+2021-03-06T09:09:52.587Z info: Starting server...
+2021-03-06T09:09:52.589Z info: Env: dev
+2021-03-06T09:09:54.457Z info: DB is connected
+2021-03-06T09:09:54.461Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-06T09:09:54.472Z info: Server listening on port 3001. Enjoy!
+2021-03-06T09:10:54.838Z info: Starting server...
+2021-03-06T09:10:54.840Z info: Env: dev
+2021-03-06T09:10:56.704Z info: DB is connected
+2021-03-06T09:10:56.708Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-06T09:10:56.720Z info: Server listening on port 3001. Enjoy!
+2021-03-06T09:14:20.097Z info: Start Fresh start
+2021-03-06T09:14:20.099Z info: Start Resenting DB
+2021-03-06T09:14:20.266Z info: Resenting DB Successfully DOne
+2021-03-06T09:14:20.267Z info: Creating new ads to db
+2021-03-06T09:14:20.280Z info: Created The Ads Successfully
+2021-03-06T09:14:20.280Z info: Finished Freshstart
+2021-03-06T09:15:51.783Z info: Start Fresh start
+2021-03-06T09:15:51.786Z info: Start Resenting DB
+2021-03-06T09:15:51.950Z info: Resenting DB Successfully DOne
+2021-03-06T09:16:07.139Z info: Start Fresh start
+2021-03-06T09:16:07.142Z info: Start Resenting DB
+2021-03-06T09:16:07.311Z info: Resenting DB Successfully DOne
+2021-03-06T09:16:46.901Z info: Start Fresh start
+2021-03-06T09:16:46.904Z info: Start Resenting DB
+2021-03-06T09:16:47.069Z info: Resenting DB Successfully DOne
+2021-03-06T09:16:47.069Z info: Creating new ads to db
+2021-03-06T09:16:47.082Z info: Created The Ads Successfully
+2021-03-06T09:16:47.082Z info: Finished Freshstart
+2021-03-06T09:22:11.707Z info: Starting server...
+2021-03-06T09:22:11.709Z info: Env: dev
+2021-03-06T09:22:13.462Z info: DB is connected
+2021-03-06T09:22:13.462Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-06T09:22:13.469Z info: Server listening on port 3001. Enjoy!
+2021-03-06T09:27:49.291Z info: Starting server...
+2021-03-06T09:27:49.293Z info: Env: dev
+2021-03-06T09:27:51.140Z info: DB is connected
+2021-03-06T09:27:51.141Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-06T09:27:51.148Z info: Server listening on port 3001. Enjoy!
+2021-03-06T09:27:59.245Z info: Start Fresh start
+2021-03-06T09:27:59.247Z info: Start Resenting DB
+2021-03-06T09:27:59.415Z info: Resenting DB Successfully Done
+2021-03-06T09:27:59.415Z info: Creating new ads to db
+2021-03-06T09:27:59.429Z info: Created The Ads Successfully
+2021-03-06T09:27:59.429Z info: Finished Fresh start
+2021-03-06T09:29:07.355Z info: Start Fresh start
+2021-03-06T09:29:07.357Z info: Start Resenting DB
+2021-03-06T09:29:07.524Z info: Resenting DB Successfully Done
+2021-03-06T09:29:21.838Z info: Start Fresh start
+2021-03-06T09:29:21.841Z info: Start Resenting DB
+2021-03-06T09:29:22.001Z info: Resenting DB Successfully Done
+2021-03-06T09:29:28.247Z info: Starting server...
+2021-03-06T09:29:28.249Z info: Env: dev
+2021-03-06T09:29:30.942Z info: DB is connected
+2021-03-06T09:29:30.946Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-06T09:29:30.956Z info: Server listening on port 3001. Enjoy!
+2021-03-06T09:29:58.718Z info: Start Fresh start
+2021-03-06T09:29:58.721Z info: Start Resenting DB
+2021-03-06T09:29:58.890Z info: Resenting DB Successfully Done
+2021-03-06T09:29:58.890Z info: Creating new ads to db
+2021-03-06T09:29:58.904Z info: Created The Ads Successfully
+2021-03-06T09:29:58.904Z info: Finished Fresh start
+2021-03-06T09:36:51.115Z info: Starting server...
+2021-03-06T09:36:51.117Z info: Env: dev
+2021-03-06T09:36:52.880Z info: DB is connected
+2021-03-06T09:37:05.669Z info: Start Fresh start
+2021-03-06T09:37:05.671Z info: Start Resenting DB
+2021-03-06T09:37:05.838Z info: Resenting DB Successfully Done
+2021-03-06T09:37:05.839Z info: Creating new ads to db
+2021-03-06T09:37:05.854Z info: Created The Ads Successfully
+2021-03-06T09:37:05.854Z info: Finished Fresh start
+2021-03-06T09:37:37.835Z info: Start Fresh start
+2021-03-06T09:37:37.838Z info: Start Resenting DB
+2021-03-06T09:37:38.002Z info: Resenting DB Successfully Done
+2021-03-06T09:37:38.003Z info: Creating new ads to db
+2021-03-06T09:37:38.017Z info: Created The Ads Successfully
+2021-03-06T09:37:38.017Z info: Finished Fresh start
+2021-03-06T09:38:23.217Z info: Start Fresh start
+2021-03-06T09:38:23.220Z info: Start Resenting DB
+2021-03-06T09:38:23.387Z info: Resenting DB Successfully Done
+2021-03-06T09:38:23.388Z info: Creating new ads to db
+2021-03-06T09:38:23.403Z info: Created The Ads Successfully
+2021-03-06T09:38:23.403Z info: Finished Fresh start
+2021-03-06T09:38:51.812Z info: Start Fresh start
+2021-03-06T09:38:51.817Z info: Start Resenting DB
+2021-03-06T09:38:51.985Z info: Resenting DB Successfully Done
+2021-03-06T09:38:51.985Z info: Creating new ads to db
+2021-03-06T09:38:52.002Z info: Created The Ads Successfully
+2021-03-06T09:38:52.002Z info: Finished Fresh start
+2021-03-06T09:39:27.896Z info: Start Fresh start
+2021-03-06T09:39:27.898Z info: Start Resenting DB
+2021-03-06T09:39:28.071Z info: Resenting DB Successfully Done
+2021-03-06T09:39:28.071Z info: Creating new ads to db
+2021-03-06T09:39:28.091Z info: Created The Ads Successfully
+2021-03-06T09:39:28.092Z info: Finished Fresh start
+2021-03-06T09:40:01.652Z info: Starting server...
+2021-03-06T09:40:01.654Z info: Env: dev
+2021-03-06T09:40:03.557Z info: DB is connected
+2021-03-06T09:40:03.560Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-06T09:40:03.564Z info: Server listening on port 3001. Enjoy!
+2021-03-06T09:40:49.750Z info: Start Fresh start
+2021-03-06T09:40:49.752Z info: Start Resenting DB
+2021-03-06T09:40:49.923Z info: Resenting DB Successfully Done
+2021-03-06T09:40:49.924Z info: Creating new ads to db
+2021-03-06T09:40:49.934Z info: Created The Ads Successfully
+2021-03-06T09:40:49.935Z info: Finished Fresh start
+2021-03-06T09:41:15.151Z info: Start Fresh start
+2021-03-06T09:41:15.154Z info: Start Resenting DB
+2021-03-06T09:41:15.321Z info: Resenting DB Successfully Done
+2021-03-06T09:41:15.322Z info: Creating new ads to db
+2021-03-06T09:41:15.335Z info: Created The Ads Successfully
+2021-03-06T09:41:15.336Z info: Finished Fresh start
+2021-03-06T09:42:03.074Z info: Starting server...
+2021-03-06T09:42:03.076Z info: Env: dev
+2021-03-06T09:42:08.456Z info: Starting server...
+2021-03-06T09:42:08.457Z info: Env: dev
+2021-03-06T09:42:10.228Z info: DB is connected
+2021-03-06T09:42:10.228Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-06T09:42:10.235Z info: Server listening on port 3001. Enjoy!
+2021-03-06T09:42:29.476Z info: Starting server...
+2021-03-06T09:42:29.478Z info: Env: dev
+2021-03-06T09:42:31.188Z info: DB is connected
+2021-03-06T09:42:31.189Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-06T09:42:31.192Z info: Server listening on port 3001. Enjoy!
+2021-03-06T09:44:52.574Z info: Start Fresh start
+2021-03-06T09:44:52.576Z info: Start Resenting DB
+2021-03-06T09:44:52.740Z info: Resenting DB Successfully Done
+2021-03-06T09:44:52.741Z info: Creating new ads to db
+2021-03-06T09:44:52.744Z info: Created The Ads Successfully
+2021-03-06T09:44:52.744Z info: Finished Fresh start
+2021-03-06T09:45:33.785Z info: Starting server...
+2021-03-06T09:45:33.786Z info: Env: dev
+2021-03-06T09:45:38.206Z info: DB is connected
+2021-03-06T09:45:38.207Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-06T09:45:38.214Z info: Server listening on port 3001. Enjoy!
+2021-03-06T09:45:42.084Z info: Starting server...
+2021-03-06T09:45:42.085Z info: Env: dev
+2021-03-06T09:45:43.777Z info: DB is connected
+2021-03-06T09:45:43.777Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-06T09:45:43.785Z info: Server listening on port 3001. Enjoy!
+2021-03-06T09:48:37.468Z info: Start Fresh start
+2021-03-06T09:48:37.470Z info: Start Resenting DB
+2021-03-06T09:48:37.638Z info: Resenting DB Successfully Done
+2021-03-06T09:48:37.638Z info: Creating new ads to db
+2021-03-06T09:48:37.653Z info: Created The Ads Successfully
+2021-03-06T09:48:37.653Z info: Finished Fresh start
+2021-03-06T09:48:42.347Z info: Starting server...
+2021-03-06T09:48:42.349Z info: Env: dev
+2021-03-06T09:48:43.906Z info: DB is connected
+2021-03-06T09:48:43.907Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-06T09:48:43.912Z info: Server listening on port 3001. Enjoy!
+2021-03-06T09:49:09.654Z info: Start Fresh start
+2021-03-06T09:49:09.657Z info: Start Resenting DB
+2021-03-06T09:49:09.831Z info: Resenting DB Successfully Done
+2021-03-06T09:49:09.831Z info: Creating new ads to db
+2021-03-06T09:49:09.846Z info: Created The Ads Successfully
+2021-03-06T09:49:09.846Z info: Finished Fresh start
+2021-03-06T09:49:14.531Z info: Starting server...
+2021-03-06T09:49:14.533Z info: Env: dev
+2021-03-06T09:49:16.248Z info: DB is connected
+2021-03-06T09:49:16.248Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-06T09:49:16.255Z info: Server listening on port 3001. Enjoy!
+2021-03-06T09:49:39.505Z info: Start Fresh start
+2021-03-06T09:49:39.507Z info: Start Resenting DB
+2021-03-06T09:49:39.507Z info: Resenting DB Successfully Done
+2021-03-06T09:49:39.508Z info: Creating new ads to db
+2021-03-06T09:49:39.518Z info: Created The Ads Successfully
+2021-03-06T09:49:39.518Z info: Finished Fresh start
+2021-03-06T09:49:43.559Z info: Starting server...
+2021-03-06T09:49:43.561Z info: Env: dev
+2021-03-06T09:49:45.330Z info: DB is connected
+2021-03-06T09:49:45.330Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-06T09:49:45.338Z info: Server listening on port 3001. Enjoy!
+2021-03-06T09:50:31.093Z info: Starting server...
+2021-03-06T09:50:31.095Z info: Env: dev
+2021-03-06T09:50:32.875Z info: DB is connected
+2021-03-06T09:50:42.398Z info: Starting server...
+2021-03-06T09:50:42.400Z info: Env: dev
+2021-03-06T09:50:44.291Z info: DB is connected
+2021-03-06T09:50:44.292Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-06T09:50:44.299Z info: Server listening on port 3001. Enjoy!
+2021-03-06T09:52:04.996Z info: Starting server...
+2021-03-06T09:52:04.998Z info: Env: dev
+2021-03-06T09:52:06.941Z info: DB is connected
+2021-03-06T09:52:06.941Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-06T09:52:06.945Z info: Server listening on port 3001. Enjoy!
+2021-03-06T09:52:58.121Z info: Starting server...
+2021-03-06T09:52:58.123Z info: Env: dev
+2021-03-06T09:52:59.864Z info: DB is connected
+2021-03-06T09:52:59.865Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-06T09:52:59.872Z info: Server listening on port 3001. Enjoy!
+2021-03-06T09:53:41.892Z info: Starting server...
+2021-03-06T09:53:41.894Z info: Env: dev
+2021-03-06T09:53:43.721Z info: DB is connected
+2021-03-06T09:53:43.721Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-06T09:53:43.725Z info: Server listening on port 3001. Enjoy!
+2021-03-06T09:56:32.521Z info: Starting server...
+2021-03-06T09:56:32.523Z info: Env: dev
+2021-03-06T09:56:34.262Z info: DB is connected
+2021-03-06T09:56:34.262Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-06T09:56:34.266Z info: Server listening on port 3001. Enjoy!
+2021-03-06T09:58:03.005Z info: Starting server...
+2021-03-06T09:58:03.007Z info: Env: dev
+2021-03-06T09:58:05.203Z info: DB is connected
+2021-03-06T09:58:05.203Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-06T09:58:05.209Z info: Server listening on port 3001. Enjoy!
+2021-03-06T09:59:31.554Z info: Starting server...
+2021-03-06T09:59:31.558Z info: Env: dev
+2021-03-06T09:59:33.657Z info: DB is connected
+2021-03-06T09:59:33.658Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-06T09:59:33.661Z info: Server listening on port 3001. Enjoy!
+2021-03-06T10:00:15.870Z info: Starting server...
+2021-03-06T10:00:15.871Z info: Env: dev
+2021-03-06T10:00:20.681Z info: DB is connected
+2021-03-06T10:00:20.682Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-06T10:00:20.688Z info: Server listening on port 3001. Enjoy!
+2021-03-06T10:00:50.660Z info: Starting server...
+2021-03-06T10:00:50.662Z info: Env: dev
+2021-03-06T10:00:52.935Z info: DB is connected
+2021-03-06T10:00:52.935Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-06T10:00:52.939Z info: Server listening on port 3001. Enjoy!
+2021-03-06T10:03:44.873Z info: Starting server...
+2021-03-06T10:03:44.875Z info: Env: dev
+2021-03-06T10:03:46.785Z info: DB is connected
+2021-03-06T10:03:46.786Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-06T10:03:46.794Z info: Server listening on port 3001. Enjoy!
+2021-03-06T10:04:00.110Z info: Starting server...
+2021-03-06T10:04:00.112Z info: Env: dev
+2021-03-06T10:04:02.715Z info: DB is connected
+2021-03-06T10:04:02.716Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-06T10:04:02.723Z info: Server listening on port 3001. Enjoy!
+2021-03-06T10:04:16.564Z info: Starting server...
+2021-03-06T10:04:16.566Z info: Env: dev
+2021-03-06T10:04:18.577Z info: DB is connected
+2021-03-06T10:04:18.578Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-06T10:04:18.585Z info: Server listening on port 3001. Enjoy!
+2021-03-06T10:11:26.812Z info: Starting server...
+2021-03-06T10:11:26.813Z info: Env: dev
+2021-03-06T10:11:28.506Z info: DB is connected
+2021-03-06T10:11:28.506Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-06T10:11:28.515Z info: Server listening on port 3001. Enjoy!
+2021-03-06T10:11:40.977Z info: Start Fresh start
+2021-03-06T10:11:40.982Z info: Start Resenting DB
+2021-03-06T10:11:41.138Z info: Resenting DB Successfully Done
+2021-03-06T10:11:41.139Z info: Creating new ads to db
+2021-03-06T10:11:41.147Z info: Created The Ads Successfully
+2021-03-06T10:11:41.147Z info: Finished Fresh start
+2021-03-06T10:12:08.590Z info: Start Fresh start
+2021-03-06T10:12:08.593Z info: Start Resenting DB
+2021-03-06T10:12:08.758Z info: Resenting DB Successfully Done
+2021-03-06T10:12:08.758Z info: Creating new ads to db
+2021-03-06T10:12:08.773Z info: Created The Ads Successfully
+2021-03-06T10:12:08.773Z info: Finished Fresh start
+2021-03-06T10:12:13.390Z info: Starting server...
+2021-03-06T10:12:13.392Z info: Env: dev
+2021-03-06T10:12:14.855Z info: DB is connected
+2021-03-06T10:12:14.855Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-06T10:12:14.864Z info: Server listening on port 3001. Enjoy!
+2021-03-06T10:12:47.248Z info: Start Fresh start
+2021-03-06T10:12:47.249Z info: Start Resenting DB
+2021-03-06T10:12:47.413Z info: Resenting DB Successfully Done
+2021-03-06T10:12:47.413Z info: Creating new ads to db
+2021-03-06T10:12:47.420Z info: Created The Ads Successfully
+2021-03-06T10:12:47.420Z info: Finished Fresh start
+2021-03-06T10:12:51.698Z info: Starting server...
+2021-03-06T10:12:51.700Z info: Env: dev
+2021-03-06T10:12:53.373Z info: DB is connected
+2021-03-06T10:12:53.373Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-06T10:12:53.377Z info: Server listening on port 3001. Enjoy!
+2021-03-06T10:20:59.392Z info: Start Fresh start
+2021-03-06T10:20:59.393Z info: Start Resenting DB
+2021-03-06T10:20:59.550Z info: Resenting DB Successfully Done
+2021-03-06T10:20:59.550Z info: Creating new ads to db
+2021-03-06T10:20:59.558Z info: Created The Ads Successfully
+2021-03-06T10:20:59.558Z info: Finished Fresh start
+2021-03-06T10:21:30.817Z info: Starting server...
+2021-03-06T10:21:30.819Z info: Env: dev
+2021-03-06T10:21:33.566Z info: DB is connected
+2021-03-06T10:21:33.566Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-06T10:21:33.570Z info: Server listening on port 3001. Enjoy!
+2021-03-06T10:27:35.186Z info: Starting server...
+2021-03-06T10:27:35.190Z info: Env: dev
+2021-03-06T10:27:36.868Z info: DB is connected
+2021-03-06T10:27:36.869Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-06T10:27:36.877Z info: Server listening on port 3001. Enjoy!
+2021-03-06T10:28:22.636Z info: Start Fresh start
+2021-03-06T10:28:22.639Z info: Start Resenting DB
+2021-03-06T10:28:22.796Z info: Resenting DB Successfully Done
+2021-03-06T10:28:22.797Z info: Creating new ads to db
+2021-03-06T10:28:22.811Z info: Created The Ads Successfully
+2021-03-06T10:28:22.811Z info: Finished Fresh start
+2021-03-06T10:28:51.933Z info: Starting server...
+2021-03-06T10:28:51.937Z info: Env: dev
+2021-03-06T10:28:54.770Z info: DB is connected
+2021-03-06T10:28:54.771Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-06T10:28:54.780Z info: Server listening on port 3001. Enjoy!
+2021-03-06T10:34:47.313Z info: Starting server...
+2021-03-06T10:34:47.317Z info: Env: dev
+2021-03-06T10:34:49.112Z info: DB is connected
+2021-03-06T10:34:49.113Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-06T10:34:49.120Z info: Server listening on port 3001. Enjoy!
+2021-03-06T10:37:10.664Z info: Starting server...
+2021-03-06T10:37:10.668Z info: Env: dev
+2021-03-06T10:37:12.411Z info: DB is connected
+2021-03-06T10:37:12.411Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-06T10:37:12.419Z info: Server listening on port 3001. Enjoy!
+2021-03-06T10:37:45.484Z info: Starting server...
+2021-03-06T10:37:45.486Z info: Env: dev
+2021-03-06T10:37:48.150Z info: DB is connected
+2021-03-06T10:37:48.150Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-06T10:37:48.160Z info: Server listening on port 3001. Enjoy!
+2021-03-06T10:38:12.037Z info: Start Fresh start
+2021-03-06T10:38:12.040Z info: Start Resenting DB
+2021-03-06T10:38:12.214Z info: Resenting DB Successfully Done
+2021-03-06T10:38:12.215Z info: Creating new ads to db
+2021-03-06T10:38:12.228Z info: Created The Ads Successfully
+2021-03-06T10:38:12.228Z info: Finished Fresh start
+2021-03-06T10:38:17.750Z info: Starting server...
+2021-03-06T10:38:17.752Z info: Env: dev
+2021-03-06T10:38:19.549Z info: DB is connected
+2021-03-06T10:38:19.549Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-06T10:38:19.556Z info: Server listening on port 3001. Enjoy!
+2021-03-06T12:27:01.800Z error: querySrv ETIMEOUT _mongodb._tcp.devconnector.tpymk.mongodb.net
+2021-03-06T12:27:09.832Z info: Start Fresh start
+2021-03-06T12:27:09.838Z info: Start Resenting DB
+2021-03-06T12:27:10.007Z info: Resenting DB Successfully Done
+2021-03-06T12:27:10.007Z info: Creating new ads to db
+2021-03-06T12:27:10.024Z info: Created The Ads Successfully
+2021-03-06T12:27:10.024Z info: Finished Fresh start
+2021-03-06T12:27:26.547Z info: Starting server...
+2021-03-06T12:27:26.549Z info: Env: dev
+2021-03-06T12:27:28.620Z info: DB is connected
+2021-03-06T12:27:28.621Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-06T12:27:28.625Z info: Server listening on port 3001. Enjoy!
+2021-03-06T13:12:23.973Z info: Starting server...
+2021-03-06T13:12:23.975Z info: Env: dev
+2021-03-06T13:12:25.884Z info: DB is connected
+2021-03-06T13:12:25.885Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-06T13:12:25.892Z info: Server listening on port 3001. Enjoy!
+2021-03-06T13:12:31.605Z info: Starting server...
+2021-03-06T13:12:31.607Z info: Env: dev
+2021-03-06T13:12:33.500Z info: DB is connected
+2021-03-06T13:12:33.501Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-06T13:12:33.508Z info: Server listening on port 3001. Enjoy!
+2021-03-06T13:12:45.155Z info: Starting server...
+2021-03-06T13:12:45.156Z info: Env: dev
+2021-03-06T13:12:46.967Z info: DB is connected
+2021-03-06T13:12:46.969Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-06T13:12:46.975Z info: Server listening on port 3001. Enjoy!
+2021-03-06T13:12:50.081Z info: Starting server...
+2021-03-06T13:12:50.082Z info: Env: dev
+2021-03-06T13:12:51.705Z info: DB is connected
+2021-03-06T13:12:51.705Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-06T13:12:51.719Z info: Server listening on port 3001. Enjoy!
+2021-03-06T13:13:01.836Z info: Starting server...
+2021-03-06T13:13:01.838Z info: Env: dev
+2021-03-06T13:13:04.271Z info: DB is connected
+2021-03-06T13:13:04.271Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-06T13:13:04.278Z info: Server listening on port 3001. Enjoy!
+2021-03-06T13:33:58.997Z info: Starting server...
+2021-03-06T13:33:58.999Z info: Env: dev
+2021-03-06T13:34:00.772Z info: DB is connected
+2021-03-06T13:34:00.772Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-06T13:34:00.776Z info: Server listening on port 3001. Enjoy!
+2021-03-06T13:58:19.174Z info: Start Fresh start
+2021-03-06T13:58:19.176Z info: Start Resenting DB
+2021-03-06T13:58:19.388Z info: Resenting DB Successfully Done
+2021-03-06T13:58:19.389Z info: Creating new ads to db
+2021-03-06T13:58:19.398Z info: Created The Ads Successfully
+2021-03-06T13:58:19.398Z info: Finished Fresh start
+2021-03-06T13:58:30.625Z info: Starting server...
+2021-03-06T13:58:30.627Z info: Env: dev
+2021-03-06T13:58:32.476Z info: DB is connected
+2021-03-06T13:58:32.476Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-06T13:58:32.484Z info: Server listening on port 3001. Enjoy!
+2021-03-06T14:30:45.562Z info: Starting server...
+2021-03-06T14:30:45.564Z info: Env: dev
+2021-03-06T14:30:47.436Z info: DB is connected
+2021-03-06T14:30:47.436Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-06T14:30:47.445Z info: Server listening on port 3001. Enjoy!
+2021-03-06T15:31:50.634Z info: Start Fresh start
+2021-03-06T15:31:50.636Z info: Start Resenting DB
+2021-03-06T15:31:50.813Z info: Resenting DB Successfully Done
+2021-03-06T15:31:50.814Z info: Creating new ads to db
+2021-03-06T15:31:50.829Z info: Created The Ads Successfully
+2021-03-06T15:31:50.829Z info: Finished Fresh start
+2021-03-06T15:31:55.754Z info: Starting server...
+2021-03-06T15:31:55.756Z info: Env: dev
+2021-03-06T15:32:05.290Z info: DB is connected
+2021-03-06T15:32:05.290Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-06T15:32:05.295Z info: Server listening on port 3001. Enjoy!
+2021-03-06T15:40:09.757Z info: Starting server...
+2021-03-06T15:40:09.759Z info: Env: dev
+2021-03-06T15:40:11.745Z info: DB is connected
+2021-03-06T15:40:11.746Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-06T15:40:11.751Z info: Server listening on port 3001. Enjoy!
+2021-03-06T15:41:52.406Z info: Start Fresh start
+2021-03-06T15:41:52.408Z info: Start Resenting DB
+2021-03-06T15:41:52.583Z info: Resenting DB Successfully Done
+2021-03-06T15:41:52.584Z info: Creating new ads to db
+2021-03-06T15:41:52.598Z info: Created The Ads Successfully
+2021-03-06T15:41:52.598Z info: Finished Fresh start
+2021-03-06T15:42:02.587Z info: Starting server...
+2021-03-06T15:42:02.589Z info: Env: dev
+2021-03-06T15:42:04.363Z info: DB is connected
+2021-03-06T15:42:04.364Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-06T15:42:04.371Z info: Server listening on port 3001. Enjoy!
+2021-03-06T15:42:28.097Z info: Start Fresh start
+2021-03-06T15:42:28.099Z info: Start Resenting DB
+2021-03-06T15:42:28.260Z info: Resenting DB Successfully Done
+2021-03-06T15:42:28.261Z info: Creating new ads to db
+2021-03-06T15:42:28.274Z info: Created The Ads Successfully
+2021-03-06T15:42:28.275Z info: Finished Fresh start
+2021-03-06T15:42:54.185Z info: Starting server...
+2021-03-06T15:42:54.187Z info: Env: dev
+2021-03-06T15:42:56.215Z info: DB is connected
+2021-03-06T15:42:56.215Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-06T15:42:56.223Z info: Server listening on port 3001. Enjoy!
+2021-03-06T17:10:08.459Z info: Starting server...
+2021-03-06T17:10:08.461Z info: Env: dev
+2021-03-06T17:10:10.267Z info: DB is connected
+2021-03-06T17:10:10.267Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-06T17:10:10.274Z info: Server listening on port 3001. Enjoy!
+2021-03-06T17:10:36.556Z info: Start Fresh start
+2021-03-06T17:10:36.558Z info: Start Resenting DB
+2021-03-06T17:10:36.726Z info: Resenting DB Successfully Done
+2021-03-06T17:10:36.726Z info: Creating new ads to db
+2021-03-06T17:10:36.743Z info: Created The Ads Successfully
+2021-03-06T17:10:36.743Z info: Finished Fresh start
+2021-03-06T17:13:51.828Z info: Start Fresh start
+2021-03-06T17:13:51.831Z info: Start Resenting DB
+2021-03-06T17:13:52.010Z info: Resenting DB Successfully Done
+2021-03-06T17:13:52.011Z info: Creating new ads to db
+2021-03-06T17:13:52.028Z info: Created The Ads Successfully
+2021-03-06T17:13:52.028Z info: Finished Fresh start
+2021-03-06T17:13:57.672Z info: Starting server...
+2021-03-06T17:13:57.674Z info: Env: dev
+2021-03-06T17:13:59.782Z info: DB is connected
+2021-03-06T17:13:59.783Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-06T17:13:59.788Z info: Server listening on port 3001. Enjoy!
+2021-03-07T06:05:08.384Z info: Start Fresh start
+2021-03-07T06:05:08.386Z info: Start Resenting DB
+2021-03-07T06:05:08.586Z info: Resenting DB Successfully Done
+2021-03-07T06:05:08.586Z info: Creating new ads to db
+2021-03-07T06:05:08.600Z info: Created The Ads Successfully
+2021-03-07T06:05:08.600Z info: Finished Fresh start
+2021-03-07T06:05:32.215Z info: Starting server...
+2021-03-07T06:05:32.217Z info: Env: dev
+2021-03-07T06:05:35.081Z info: DB is connected
+2021-03-07T06:05:35.082Z info: mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-03-07T06:05:35.088Z info: Server listening on port 3001. Enjoy!

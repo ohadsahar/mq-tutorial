@@ -1,0 +1,103 @@
+2020-11-30T13:25:17.392Z error: password authentication failed for user "OhadProjects"
+2020-11-30T13:25:17.394Z error: Cannot connect to db. this could be fatal
+2020-11-30T13:25:35.200Z error: password authentication failed for user "OhadDev"
+2020-11-30T13:25:35.202Z error: Cannot connect to db. this could be fatal
+2020-11-30T13:27:01.212Z error: password authentication failed for user "OhadDev"
+2020-11-30T13:27:01.213Z error: Cannot connect to db. this could be fatal
+2020-11-30T13:27:33.302Z error: password authentication failed for user "OhadDev"
+2020-11-30T13:27:33.303Z error: Cannot connect to db. this could be fatal
+2020-11-30T13:28:04.241Z error: password authentication failed for user "OhadProjects"
+2020-11-30T13:28:04.242Z error: Cannot connect to db. this could be fatal
+2020-11-30T13:30:10.451Z error: password authentication failed for user "OhadDev"
+2020-11-30T13:30:10.452Z error: Cannot connect to db. this could be fatal
+2020-11-30T13:31:00.383Z error: password authentication failed for user "OhadProjects"
+2020-11-30T13:31:00.384Z error: Cannot connect to db. this could be fatal
+2020-11-30T13:32:55.342Z error: password authentication failed for user "OhadProjects"
+2020-11-30T13:32:55.343Z error: Cannot connect to db. this could be fatal
+2020-11-30T13:33:34.995Z error: password authentication failed for user "OhadProjects"
+2020-11-30T13:33:34.996Z error: Cannot connect to db. this could be fatal
+2021-02-23T06:14:16.208Z error: getaddrinfo ENOTFOUND mongodb+srv://ohadsahar:ppd53brx@devconnector.tpymk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+2021-02-23T06:14:16.210Z error: Cannot connect to db. this could be fatal
+2021-02-23T06:16:10.983Z error: Cannot connect to db. this could be fatal
+2021-02-23T06:18:04.752Z error: Cannot connect to db. this could be fatal
+2021-02-23T06:18:28.616Z error: Cannot connect to db. this could be fatal
+2021-02-23T06:18:54.394Z error: Cannot connect to db. this could be fatal
+2021-02-23T06:19:46.341Z error: mongoose.connect is not a function
+2021-02-23T06:19:46.343Z error: Cannot connect to db. this could be fatal
+2021-02-23T06:20:29.995Z error: mongoose.connect is not a function
+2021-02-23T06:20:29.998Z error: Cannot connect to db. this could be fatal
+2021-02-23T06:20:39.374Z error: Cannot connect to db. this could be fatal
+2021-02-23T06:23:18.986Z error: Cannot connect to db. this could be fatal
+2021-02-23T06:25:45.030Z error: Cannot connect to db. this could be fatal
+2021-02-23T06:26:23.821Z error: Cannot connect to db. this could be fatal
+2021-02-23T06:27:57.775Z error: Cannot connect to db. this could be fatal
+2021-02-23T06:28:16.401Z error: Cannot connect to db. this could be fatal
+2021-02-23T06:29:33.685Z error: Cannot connect to db. this could be fatal
+2021-02-23T06:31:32.357Z error: Cannot connect to db. this could be fatal
+2021-02-23T06:33:25.373Z error: password must be a string
+2021-02-23T06:33:25.374Z error: Cannot connect to db. this could be fatal
+2021-02-23T06:33:35.466Z error: password must be a string
+2021-02-23T06:33:35.467Z error: Cannot connect to db. this could be fatal
+2021-02-23T06:33:45.287Z error: Cannot connect to db. this could be fatal
+2021-02-23T06:34:06.391Z error: Cannot connect to db. this could be fatal
+2021-02-23T07:47:12.040Z error: User Already Exists
+2021-02-23T07:47:12.041Z error: User Already Exists
+2021-02-23T07:47:19.896Z error: User Already Exists
+2021-02-23T07:47:19.897Z error: User Already Exists
+2021-02-23T07:47:20.596Z error: User Already Exists
+2021-02-23T07:47:20.597Z error: User Already Exists
+2021-02-23T07:47:27.034Z error: User Already Exists
+2021-02-23T07:47:27.034Z error: User Already Exists
+2021-02-23T09:18:12.864Z error: User Already Exists
+2021-02-23T09:18:12.865Z error: User Already Exists
+2021-02-23T09:18:28.555Z error: User Already Exists
+2021-02-23T09:18:28.556Z error: User Already Exists
+2021-02-23T15:43:43.235Z error: User Already Exis ts
+2021-02-23T15:43:43.236Z error: User Already Exists
+2021-02-23T15:54:23.982Z error: User Already Exis ts
+2021-02-23T15:54:23.984Z error: User Already Exists
+2021-02-23T16:25:19.783Z error: error authenticating jwt
+2021-02-23T16:25:19.784Z error: no data
+2021-02-23T16:25:30.722Z error: error authenticating jwt
+2021-02-23T16:25:30.723Z error: no data
+2021-02-23T16:25:47.253Z error: error authenticating jwt
+2021-02-23T16:25:47.254Z error: no data
+2021-02-23T16:25:48.230Z error: error authenticating jwt
+2021-02-23T16:25:48.231Z error: no data
+2021-02-23T16:26:34.929Z error: User wasn't found
+2021-02-23T16:26:34.932Z error: No user with id6035252a390a8ba2570da4ca
+2021-02-23T16:26:34.936Z error: error authenticating jwt
+2021-02-23T16:26:34.937Z error: no data
+2021-02-23T16:26:35.859Z error: User wasn't found
+2021-02-23T16:26:35.861Z error: No user with id6035252a390a8ba2570da4ca
+2021-02-23T16:26:35.863Z error: error authenticating jwt
+2021-02-23T16:26:35.863Z error: no data
+2021-02-23T16:26:51.445Z error: User wasn't found
+2021-02-23T16:26:51.446Z error: No user with id6035252a390a8ba2570da4ca
+2021-02-23T16:26:51.449Z error: error authenticating jwt
+2021-02-23T16:26:51.450Z error: no data
+2021-02-23T16:26:55.178Z error: User wasn't found
+2021-02-23T16:26:55.179Z error: No user with id6035252a390a8ba2570da4ca
+2021-02-23T16:26:55.181Z error: error authenticating jwt
+2021-02-23T16:26:55.185Z error: no data
+2021-02-23T16:27:26.597Z error: User wasn't found
+2021-02-23T16:27:26.598Z error: No user with id6035252a390a8ba2570da4ca
+2021-02-23T16:27:26.602Z error: error authenticating jwt
+2021-02-23T16:27:26.602Z error: no data
+2021-02-23T16:37:42.987Z error: User wasn't found
+2021-02-23T16:37:42.990Z error: No user with id6035252a390a8ba2570da4ca
+2021-02-23T16:37:43.001Z error: error authenticating jwt
+2021-02-23T16:37:43.001Z error: no data
+2021-02-23T17:39:58.106Z error: Profile Not Exists
+2021-02-23T17:39:58.107Z error: Profile Wont Exists
+2021-02-23T17:43:59.306Z error: Profile Not Exists
+2021-02-23T17:43:59.308Z error: Profile Wont Exists
+2021-02-24T15:59:49.288Z error: unallowed option
+2021-02-24T15:59:49.289Z error: Un allowed
+2021-02-24T18:05:25.410Z error: Liked this post
+2021-02-24T18:05:25.411Z error: Liked this post
+2021-02-24T18:05:26.486Z error: Liked this post
+2021-02-24T18:05:26.488Z error: Liked this post
+2021-02-24T18:05:27.394Z error: Liked this post
+2021-02-24T18:05:27.394Z error: Liked this post
+2021-03-06T12:27:01.800Z error: querySrv ETIMEOUT _mongodb._tcp.devconnector.tpymk.mongodb.net

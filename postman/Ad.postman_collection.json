@@ -1,0 +1,134 @@
+{
+	"info": {
+		"_postman_id": "8da0ff3d-36c0-460b-9c9b-a4d74cec0dd4",
+		"name": "Ad",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Get All Ads",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "lat",
+						"value": "",
+						"type": "text",
+						"disabled": true
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"url": {
+					"raw": "http://localhost:3001/ads?lat=31.5000&long=34.7500&tag=travel&tag=asia&tag=israel",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3001",
+					"path": [
+						"ads"
+					],
+					"query": [
+						{
+							"key": "lat",
+							"value": "31.5000"
+						},
+						{
+							"key": "long",
+							"value": "34.7500"
+						},
+						{
+							"key": "tag",
+							"value": "travel"
+						},
+						{
+							"key": "tag",
+							"value": "asia"
+						},
+						{
+							"key": "tag",
+							"value": "israel"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Create Ad",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"description\": \"Ohad Sahar The King\",\n    \"imageUrl\": \"http:localhost:3000/imageurl\",\n    \"targeting\": {\n        \"location\": {\n            \"lat\": 31.6,\n            \"long\": 34.8,\n            \"radius\": 50\n        },\n        \"tags\": [\n            \"travel\",\n            \"asia\",\n            \"jordan\"\n        \n        ],\n        \"operatingSystems\": [\n            \"Windows\"\n        ],\n        \"browsers\": [\n            \"FireFox\",\n            \"Chrome\",\n            \"Opera\"\n        ]\n    }\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:3001/ads",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3001",
+					"path": [
+						"ads"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get Best Ad",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:3001/ads/best?lat=31.5000&long=34.7500&tag=travel&tag=asia&tag=israel",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3001",
+					"path": [
+						"ads",
+						"best"
+					],
+					"query": [
+						{
+							"key": "lat",
+							"value": "31.5000"
+						},
+						{
+							"key": "long",
+							"value": "34.7500"
+						},
+						{
+							"key": "tag",
+							"value": "travel"
+						},
+						{
+							"key": "tag",
+							"value": "asia"
+						},
+						{
+							"key": "tag",
+							"value": "israel"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
